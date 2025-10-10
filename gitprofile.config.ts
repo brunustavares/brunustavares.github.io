@@ -41,12 +41,68 @@ const CONFIG = {
           link: 'https://github.com/brunustavares/wiser_Py',
         },
         {
-          title: 'Project Name',
+          title: 'Sebenta',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Moodle block for grades synchronization with WISEflow (teachers’ function) and integrated grades and submission statements (students’ function).',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://raw.githubusercontent.com/brunustavares/Sebenta/main/pix/logo.png?token=GHSAT0AAAAAADMDUWNVPT72U3SKFTV4UWKS2HJCP5Q',
+          link: 'https://github.com/brunustavares/Sebenta',
+        },
+        {
+          title: 'val.Py',
+          description:
+            'Python bot, combined with a Moodle block, to support courses’ structure validation, using various approaches, between web scraping and direct access to the database.',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/val_Py/main/pix/_d6566782-1609-49d4-ab85-789322da7399.jpg?token=GHSAT0AAAAAADMDUWNVRLLMQ7552ZCJMQRC2HJCRQQ',
+          link: 'https://github.com/brunustavares/val_Py',
+        },
+        {
+          title: 'GesTurmas',
+          description:
+            'Moodle block for students’ distribution by the respective classes, registering them in the intermediate database (BDInt), compiling the information from the academic management system and Moodle.',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/GesTurmas/main/moodle_block/gesturmas/pix/gesturmas_nome.png?token=GHSAT0AAAAAADMDUWNVWUULYZDSOWQHZX6E2HJCSOQ',
+          link: 'https://github.com/brunustavares/GesTurmas',
+        },
+        {
+          title: '_DBsync_',
+          description:
+            'PHP app for synchronization of registrations and grades, between Moodle and WISEflow databases (MySQL) and academic management system (Oracle).',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/DB_sync/main/logo_DBsync_.png?token=GHSAT0AAAAAADMDUWNU4YGJBVFKA5DMSB6I2HJCTTA',
+          link: 'https://github.com/brunustavares/DB_sync',
+        },
+        {
+          title: 'Absentia',
+          description:
+            'Moodle block to identify dropout-risk students and provide additional contact info, via web service connected to the academic management system.',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/Absentia/main/img/absentia.png?token=GHSAT0AAAAAADMDUWNUGGASX3SE2XWLWC6K2HJCUKQ',
+          link: 'https://github.com/brunustavares/Absentia',
+        },
+        {
+          title: 'AIDA',
+          description:
+            'Moodle webservices for data loading',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/AIDA/main/pix/logo.jpg?token=GHSAT0AAAAAADMDUWNUJLNKO52664ZSU3P22HJCU7Q',
+          link: 'https://github.com/brunustavares/AIDA',
+        },
+        {
+          title: 'LLM_RAG',
+          description:
+            'Moodle webservices for LLM data loading',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/LLM_RAG/main/pix/logo.jpg?token=GHSAT0AAAAAADMDUWNVKE3FV6HUXVXRIAW62HJCVQA',
+          link: 'https://github.com/brunustavares/LLM_RAG',
+        },
+        {
+          title: 'prov_E2',
+          description:
+            'Moodle block for electronic written exams management.',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/prov_E2/main/pix/logo_prov_E2.png?token=GHSAT0AAAAAADMDUWNUP3Y4VO77GUJZ7JIU2HJCWEA',
+          link: 'https://github.com/brunustavares/prov_E2',
         },
       ],
     },
