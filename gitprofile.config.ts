@@ -11,7 +11,7 @@ const CONFIG = {
    */
   base: '/',
   projects: {
-    github: {
+    /** github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
@@ -27,7 +27,7 @@ const CONFIG = {
         // Properties for manually specifying projects
         projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
-    },
+    }, **/
     external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
@@ -86,7 +86,7 @@ const CONFIG = {
     'CSS',
   ],
   experiences: [
-    {
+    /** {
       company: 'Company Name',
       position: 'Position',
       from: 'September 2021',
@@ -99,18 +99,18 @@ const CONFIG = {
       from: 'July 2019',
       to: 'August 2021',
       companyLink: 'https://example.com',
-    },
+    }, **/
   ],
   certifications: [
-    {
+    /** {
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
       link: 'https://example.com',
-    },
+    }, **/
   ],
   educations: [
-    {
+    /** {
       institution: 'Institution Name',
       degree: 'Degree',
       from: '2015',
@@ -121,10 +121,10 @@ const CONFIG = {
       degree: 'Degree',
       from: '2012',
       to: '2014',
-    },
+    }, **/
   ],
   publications: [
-    {
+    /** {
       title: 'Publication Title',
       conferenceName: '',
       journalName: 'Journal Name',
@@ -141,7 +141,7 @@ const CONFIG = {
       link: 'https://example.com',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
+    }, **/
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
