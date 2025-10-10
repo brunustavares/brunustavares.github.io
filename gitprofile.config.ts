@@ -51,48 +51,39 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'portfolio of Bruno Tavares', description: '', imageURL: '' },
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'brunomastavares',
+    facebook: 'brunustavares',
+    instagram: 'brunustavares',
+    x: 'the_spider_one',
+    mastodon: '',
     researchGate: '',
-    facebook: '',
-    instagram: '',
     reddit: '',
     threads: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: '@BrunusT', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: 'brunustavares',
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
+    telegram: 'the_spider_one',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'brunustavares@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
-    'Laravel',
+    'Python',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
     'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
@@ -155,7 +146,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'brunustavares', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
