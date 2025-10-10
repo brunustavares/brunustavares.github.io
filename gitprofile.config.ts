@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'wiser.Py',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Python app for integrated data and indicators management related to the tests carried out in WISEflow and Moodle.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/brunustavares/wiser_Py/blob/main/static/img/logo.jpg',
+          link: 'https://github.com/brunustavares/wiser_Py',
         },
         {
           title: 'Project Name',
