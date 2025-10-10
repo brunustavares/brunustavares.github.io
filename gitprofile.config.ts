@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Python app for integrated data and indicators management related to the tests carried out in WISEflow and Moodle.',
           imageUrl:
-            'https://github.com/brunustavares/wiser_Py/blob/main/static/img/logo.jpg',
+            'https://raw.githubusercontent.com/brunustavares/wiser_Py/main/static/img/logo.jpg?token=GHSAT0AAAAAADMDUWNVHSUKVBNN7FDTCYFY2HJAURA',
           link: 'https://github.com/brunustavares/wiser_Py',
         },
         {
