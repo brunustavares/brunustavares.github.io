@@ -61,7 +61,7 @@ const CONFIG = {
     researchGate: '',
     reddit: '',
     threads: '',
-    youtube: '@BrunusT', // example: 'pewdiepie'
+    youtube: 'brunust', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
