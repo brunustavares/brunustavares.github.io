@@ -132,7 +132,8 @@ const CONFIG = {
     // telegram: 'the_spider_one',
     website: '',
     phone: '',
-    email: 'brunustavares@gmail.com',
+    email: '',
+    // email: 'brunustavares@gmail.com',
   },
   resume: {
     fileUrl:
