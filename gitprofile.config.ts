@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['', ''], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -142,8 +142,8 @@ const CONFIG = {
   skills: [
     'PHP',
     'Python',
-    'JavaScript',
     'MySQL',
+    'JavaScript',
     'CSS',
   ],
   experiences: [
@@ -205,11 +205,11 @@ const CONFIG = {
     }, **/
   ],
   // Display articles from your medium or dev account. (Optional)
-  blog: {
+  /** blog: {
     source: 'dev', // medium | dev
     username: 'brunustavares', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
-  },
+  },*/
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
