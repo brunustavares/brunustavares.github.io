@@ -111,13 +111,16 @@ const CONFIG = {
   social: {
     linkedin: 'brunomastavares',
     facebook: 'brunustavares',
+    instagram: '',
     // instagram: 'brunustavares',
+    x: '',
     // x: 'the_spider_one',
     mastodon: '',
     researchGate: '',
     reddit: '',
     threads: '',
-    // youtube: 'brunust', // example: 'pewdiepie'
+    youtube: '', // example: 'pewdiepie'
+    // youtube: 'brunust',
     udemy: '',
     dribbble: '',
     behance: '',
@@ -125,6 +128,7 @@ const CONFIG = {
     dev: 'brunustavares',
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
+    telegram: '',
     // telegram: 'the_spider_one',
     website: '',
     phone: '',
