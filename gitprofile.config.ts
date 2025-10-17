@@ -32,14 +32,14 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        {
+        /**{
           title: 'wiser.Py',
           description:
             'Python app for integrated data and indicators management related to the tests carried out in WISEflow and Moodle.',
           imageUrl:
             'https://raw.githubusercontent.com/brunustavares/wiser_Py/main/static/img/logo.jpg',
           link: 'https://github.com/brunustavares/wiser_Py',
-        },
+        },*/
         {
           title: 'Sebenta',
           description:
