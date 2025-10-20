@@ -49,22 +49,6 @@ const CONFIG = {
           link: 'https://github.com/brunustavares/Sebenta',
         },
         {
-          title: 'val.Py',
-          description:
-            'Python bot, combined with a Moodle block, to support courses’ structure validation, using various approaches, between web scraping and direct access to the database.',
-          imageUrl:
-            'https://raw.githubusercontent.com/brunustavares/val_Py/main/pix/_d6566782-1609-49d4-ab85-789322da7399.jpg',
-          link: 'https://github.com/brunustavares/val_Py',
-        },
-        {
-          title: 'GesTurmas',
-          description:
-            'Moodle block for students’ distribution by the respective classes, registering them in the intermediate database (BDInt), compiling the information from the academic management system and Moodle.',
-          imageUrl:
-            'https://raw.githubusercontent.com/brunustavares/GesTurmas/main/moodle_block/gesturmas/pix/gesturmas_nome.png',
-          link: 'https://github.com/brunustavares/GesTurmas',
-        },
-        {
           title: '_DBsync_',
           description:
             'PHP app for synchronization of registrations and grades, between Moodle and WISEflow databases (MySQL) and academic management system (Oracle).',
@@ -73,12 +57,28 @@ const CONFIG = {
           link: 'https://github.com/brunustavares/DB_sync',
         },
         {
+          title: 'val.Py',
+          description:
+            'Python bot, combined with a Moodle block, to support courses’ structure validation, using various approaches, between web scraping and direct access to the database.',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/val_Py/main/pix/_d6566782-1609-49d4-ab85-789322da7399.jpg',
+          link: 'https://github.com/brunustavares/val_Py',
+        },
+        {
           title: 'Absentia',
           description:
             'Moodle block to identify dropout-risk students and provide additional contact info, via web service connected to the academic management system.',
           imageUrl:
             'https://raw.githubusercontent.com/brunustavares/Absentia/main/img/absentia.png',
           link: 'https://github.com/brunustavares/Absentia',
+        },
+        {
+          title: 'GesTurmas',
+          description:
+            'Moodle block for students’ distribution by the respective classes, registering them in the intermediate database (BDInt), compiling the information from the academic management system and Moodle.',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/GesTurmas/main/moodle_block/gesturmas/pix/gesturmas_nome.png',
+          link: 'https://github.com/brunustavares/GesTurmas',
         },
         {
           title: 'AIDA',
