@@ -39,7 +39,7 @@ const CONFIG = {
           imageUrl:
             'https://raw.githubusercontent.com/brunustavares/wiser_Py/main/static/img/logo.jpg',
           link: 'https://github.com/brunustavares/wiser_Py',
-        }
+        },
         {
           title: 'Sebenta',
           description:
