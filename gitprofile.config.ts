@@ -41,6 +41,14 @@ const CONFIG = {
           link: 'https://github.com/brunustavares/wiser_Py',
         },
         {
+          title: 'Sentinel_F',
+          description:
+            'PHP script designed to monitor student behavior within the WISEflow platform.',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/wiser_Py/main/static/img/Sentinel_F.jpg',
+          link: 'https://github.com/brunustavares/wiser_Py/blob/main/wiseflow/Sentinel_F.php',
+        },
+        {
           title: 'Sebenta',
           description:
             'Moodle block for grades synchronization with WISEflow (teachers’ function) and integrated grades and submission statements (students’ function).',
