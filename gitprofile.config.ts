@@ -46,7 +46,7 @@ const CONFIG = {
             'PHP script designed to monitor student behavior within the WISEflow platform.',
           imageUrl:
             'https://raw.githubusercontent.com/brunustavares/wiser_Py/main/static/img/Sentinel_F.jpg',
-          link: 'https://github.com/brunustavares/wiser_Py/blob/main/wiseflow/Sentinel_F.php',
+          link: 'https://github.com/brunustavares/wiser_Py/blob/main/wiseflow/Sentinel_F.md',
         },
         {
           title: 'Sebenta',
