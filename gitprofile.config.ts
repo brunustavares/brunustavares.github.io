@@ -282,7 +282,7 @@ const CONFIG = {
   wakatime: {
       year: new Date().getFullYear() - 1,
       statsUrl:
-          'https://wakatime.com/share/@brunustavares/ebe5789f-f45c-4d07-b185-9801c4b8f5cc.json',
+          'https://wakatime.com/share/@brunus/fd571de1-3899-4067-b50c-999993fe031c.json',
       reportUrl:
           'https://wakatime.com/a-look-back-at-2024/ebe5789f-f45c-4d07-b185-9801c4b8f5cc/vxdenlzcqc',
   },

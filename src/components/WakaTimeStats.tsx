@@ -26,31 +26,69 @@
 // along with this program. If not, see <https://www.gnu.org/licenses/>.
 //
 
-interface Props {
-  wakatime?: {
-    year: number;
-    reportUrl: string;
+import { useEffect, useState } from "react";
+import { WakaTimeConfig } from "../interfaces/sanitized-config";
+
+interface Language {
+  name: string;
+  percent: number;
+}
+
+interface WakaTimeResponse {
+  data: {
+    human_readable_total: string;
+    languages: Language[];
   };
 }
 
-const WakaTimeStats = ({ wakatime }: Props) => {
-  if (!wakatime) return null;
+const WakaTimeStats = ({ wakatime }: { wakatime?: WakaTimeConfig }) => {
+  const [data, setData] = useState<WakaTimeResponse | null>(null);
+
+  useEffect(() => {
+    if (!wakatime) return;
+
+    fetch(wakatime.statsUrl)
+      .then((res) => res.json())
+      .then(setData)
+      .catch(console.error);
+  }, [wakatime]);
+
+  if (!wakatime || !data) return null;
 
   return (
-    <div className="card bg-base-100 shadow-sm">
+    <section className="card bg-base-100 shadow-sm">
       <div className="card-body">
         <h2 className="card-title">
-          WakaTime – {wakatime.year} Summary
+          WakaTime · Coding Activity ({wakatime.year})
         </h2>
 
-        <iframe
-          src={wakatime.reportUrl}
-          title={`WakaTime ${wakatime.year}`}
-          className="w-full h-[800px] rounded-lg"
-          loading="lazy"
-        />
+        <p className="text-base-content/80">
+          Total coding time:{" "}
+          <strong>{data.data.human_readable_total}</strong>
+        </p>
+
+        <ul className="mt-2 space-y-2">
+          {data.data.languages.slice(0, 5).map((lang) => (
+            <li
+              key={lang.name}
+              className="flex justify-between bg-base-200 rounded px-3 py-2"
+            >
+              <span>{lang.name}</span>
+              <span>{lang.percent.toFixed(1)}%</span>
+            </li>
+          ))}
+        </ul>
+
+        <a
+          href={wakatime.reportUrl}
+          target="_blank"
+          rel="noreferrer"
+          className="mt-3 text-primary"
+        >
+          View full {wakatime.year} report →
+        </a>
       </div>
-    </div>
+    </section>
   );
 };
 
