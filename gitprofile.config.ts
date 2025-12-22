@@ -281,7 +281,6 @@ const CONFIG = {
   // Optional WakaTime Stats
   wakatime: {
     wkyear: new Date().getFullYear() - 1,
-
     wkstatsUrl:
       "https://wakatime.com/share/@brunustavares/ebe5789f-f45c-4d07-b185-9801c4b8f5cc.json",
     wkreportUrl:
