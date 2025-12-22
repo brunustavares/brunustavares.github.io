@@ -278,12 +278,6 @@ const CONFIG = {
     ],
   },
 
-  // Optional WakaTime Stats
-  wakatime: {
-    year: new Date().getFullYear() - 1,
-    statsUrl: '/wakatime.json',
-  },
-
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
       class="text-primary" href="https://github.com/arifszn/gitprofile"

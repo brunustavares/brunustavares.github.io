@@ -124,11 +124,6 @@ export interface SanitizedThemeConfig {
   themes: Array<string>;
 }
 
-export interface WakaTimeConfig {
-  year: number;
-  statsUrl: string;
-}
-
 export interface SanitizedConfig {
   github: SanitizedGithub;
   projects: SanitizedProjects;
@@ -146,5 +141,4 @@ export interface SanitizedConfig {
   themeConfig: SanitizedThemeConfig;
   footer?: string;
   enablePWA: boolean;
-  wakatime?: WakaTimeConfig;
 }
