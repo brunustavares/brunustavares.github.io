@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import GitProfile from './components/gitprofile';
-import CONFIG from '../gitprofile.config';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
