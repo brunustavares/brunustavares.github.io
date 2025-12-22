@@ -280,8 +280,8 @@ const CONFIG = {
 
   // Optional WakaTime Stats
   wakatime: {
-      wkyear: new Date().getFullYear() - 1,
-      wkstatsUrl: 'https://wakatime.com/share/@brunus/fd571de1-3899-4067-b50c-999993fe031c.json',
+    year: new Date().getFullYear() - 1,
+    statsUrl: '/wakatime.json',
   },
 
   // Optional Footer. Supports plain text or HTML.

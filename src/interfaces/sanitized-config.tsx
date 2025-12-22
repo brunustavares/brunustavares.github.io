@@ -125,8 +125,8 @@ export interface SanitizedThemeConfig {
 }
 
 export interface WakaTimeConfig {
-  wkyear: number;
-  wkstatsUrl: string;
+  year: number;
+  statsUrl: string;
 }
 
 export interface SanitizedConfig {

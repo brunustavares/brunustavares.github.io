@@ -30,9 +30,8 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 
 interface WakaTimeConfig {
-  wkyear?: number;
-  wkstatsUrl?: string;
-  wkreportUrl?: string;
+  year: number;
+  statsUrl: string;
 }
 
 interface WakaTimeStatsProps {
@@ -62,7 +61,12 @@ const WakaTimeStats = ({ wakatime }: WakaTimeStatsProps) => {
       setError(null);
 
       try {
-        const url = wakatime?.wkstatsUrl || '/wakatime.json';
+        const url = wakatime?.statsUrl;
+        if (!url) {
+            setError('WakaTime not configured.');
+            setLoading(false);
+            return;
+        }
         const response = await axios.get<WakaTimeData>(url);
         setStats(response.data);
       } catch (err) {
@@ -84,7 +88,7 @@ const WakaTimeStats = ({ wakatime }: WakaTimeStatsProps) => {
 
   return (
     <div className="card bg-base-100 shadow-sm p-4">
-      <h2 className="text-xl font-bold mb-2">WakaTime Stats ({wakatime?.wkyear || 'Year'})</h2>
+      <h2 className="text-xl font-bold mb-2">WakaTime Stats ({wakatime.year})</h2>
       <p>Total coding time: {totalHours} hrs</p>
       <ul className="mt-2">
         {stats.categories.map((cat) => (
