@@ -29,43 +29,71 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 
+interface WakaTimeConfig {
+  wkyear?: number;
+  wkstatsUrl?: string;
+  wkreportUrl?: string;
+}
+
 interface WakaTimeStatsProps {
-  wakatime?: {
-    wkyear?: number;
-    wkstatsUrl?: string;
-    wkreportUrl?: string;
+  wakatime?: WakaTimeConfig;
+}
+
+interface WakaTimeData {
+  categories: Array<{
+    name: string;
+    total_seconds: number;
+    percent: number;
+    color: string;
+  }>;
+  grand_total: {
+    total_seconds: number;
   };
 }
 
 const WakaTimeStats = ({ wakatime }: WakaTimeStatsProps) => {
-  const [stats, setStats] = useState<any>(null);
+  const [stats, setStats] = useState<WakaTimeData | null>(null);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    axios
-      .get('/wakatime.json')
-      .then((res) => {
-        setStats(res.data);
-      })
-      .catch((err) => {
-        console.error('Failed to load WakaTime stats:', err);
-      })
-      .finally(() => setLoading(false));
-  }, []);
+    const fetchWakaTime = async () => {
+      setLoading(true);
+      setError(null);
+
+      try {
+        const url = wakatime?.wkstatsUrl || '/wakatime.json';
+        const response = await axios.get<WakaTimeData>(url);
+        setStats(response.data);
+      } catch (err) {
+        setError('Failed to load WakaTime stats.');
+        console.error(err);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchWakaTime();
+  }, [wakatime]);
 
   if (loading) return <div>Loading WakaTime stats...</div>;
-  if (!stats) return <div>WakaTime stats not available.</div>;
+  if (error) return <div>{error}</div>;
+  if (!stats) return null;
 
-  // Example: show total coding time
+  const totalHours = (stats.grand_total.total_seconds / 3600).toFixed(1);
+
   return (
-    <div className="wakatime-stats">
-      <h2>WakaTime Stats</h2>
-      <p>Total Coding Time: {stats.data?.grand_total?.human_readable_total || 'N/A'}</p>
-      <p>Languages:</p>
-      <ul>
-        {stats.data?.languages?.map((lang: any) => (
-          <li key={lang.name}>
-            {lang.name}: {lang.text}
+    <div className="card bg-base-100 shadow-sm p-4">
+      <h2 className="text-xl font-bold mb-2">WakaTime Stats ({wakatime?.wkyear || 'Year'})</h2>
+      <p>Total coding time: {totalHours} hrs</p>
+      <ul className="mt-2">
+        {stats.categories.map((cat) => (
+          <li key={cat.name}>
+            <span
+              className="inline-block w-3 h-3 mr-2 rounded-full"
+              style={{ backgroundColor: cat.color }}
+            ></span>
+            {cat.name}: {cat.percent.toFixed(1)}%
           </li>
         ))}
       </ul>
