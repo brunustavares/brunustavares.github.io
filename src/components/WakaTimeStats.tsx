@@ -27,7 +27,7 @@
 //
 
 import { useEffect, useState } from "react";
-import CONFIG from "../../gitprofile.config";
+import { WakaTimeConfig } from "../interfaces/sanitized-config";
 
 interface Language {
   name: string;
@@ -41,51 +41,55 @@ interface WakaTimeResponse {
   };
 }
 
-export default function WakaTimeStats() {
+const WakaTimeStats = ({ wakatime }: { wakatime?: WakaTimeConfig }) => {
   const [data, setData] = useState<WakaTimeResponse | null>(null);
 
   useEffect(() => {
-    fetch(CONFIG.wakatime.wkstatsUrl)
+    if (!wakatime) return;
+
+    fetch(wakatime.statsUrl)
       .then((res) => res.json())
       .then(setData)
       .catch(console.error);
-  }, []);
+  }, [wakatime]);
 
-  if (!data) {
-    return <p>Loading coding activity…</p>;
-  }
+  if (!wakatime || !data) return null;
 
   return (
-    <section className="mt-10">
-      <h2 className="text-2xl font-bold mb-4">
-        WakaTime · Coding Activity
-      </h2>
+    <section className="card bg-base-100 shadow-sm">
+      <div className="card-body">
+        <h2 className="card-title">
+          WakaTime · Coding Activity ({wakatime.year})
+        </h2>
 
-      <p className="mb-4 text-base-content/80">
-        Total coding time:{" "}
-        <strong>{data.data.human_readable_total}</strong>
-      </p>
+        <p className="text-base-content/80">
+          Total coding time:{" "}
+          <strong>{data.data.human_readable_total}</strong>
+        </p>
 
-      <ul className="space-y-2">
-        {data.data.languages.slice(0, 5).map((lang) => (
-          <li
-            key={lang.name}
-            className="flex justify-between bg-base-200 rounded px-3 py-2"
-          >
-            <span>{lang.name}</span>
-            <span>{lang.percent.toFixed(1)}%</span>
-          </li>
-        ))}
-      </ul>
+        <ul className="mt-2 space-y-2">
+          {data.data.languages.slice(0, 5).map((lang) => (
+            <li
+              key={lang.name}
+              className="flex justify-between bg-base-200 rounded px-3 py-2"
+            >
+              <span>{lang.name}</span>
+              <span>{lang.percent.toFixed(1)}%</span>
+            </li>
+          ))}
+        </ul>
 
-      <a
-        href={CONFIG.wakatime.wkreportUrl}
-        target="_blank"
-        rel="noreferrer"
-        className="inline-block mt-4 text-primary"
-      >
-        View full {CONFIG.wakatime.wkyear} report →
-      </a>
+        <a
+          href={wakatime.reportUrl}
+          target="_blank"
+          rel="noreferrer"
+          className="mt-3 text-primary"
+        >
+          View full {wakatime.year} report →
+        </a>
+      </div>
     </section>
   );
-}
+};
+
+export default WakaTimeStats;
