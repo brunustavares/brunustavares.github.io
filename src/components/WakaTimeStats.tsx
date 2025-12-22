@@ -26,36 +26,49 @@
 // along with this program. If not, see <https://www.gnu.org/licenses/>.
 //
 
-import { useEffect, useState } from "react";
-import axios from "axios";
+import { useEffect, useState } from 'react';
+import axios from 'axios';
 
 interface WakaTimeStatsProps {
   wakatime?: {
-    wkstatsUrl: string;
+    wkyear?: number;
+    wkstatsUrl?: string;
+    wkreportUrl?: string;
   };
 }
 
 const WakaTimeStats = ({ wakatime }: WakaTimeStatsProps) => {
   const [stats, setStats] = useState<any>(null);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    if (!wakatime?.wkstatsUrl) return;
-
     axios
-      .get(wakatime.wkstatsUrl)
-      .then((res) => setStats(res.data))
-      .catch((err) => console.error("Failed to load WakaTime stats:", err));
-  }, [wakatime]);
+      .get('/wakatime.json')
+      .then((res) => {
+        setStats(res.data);
+      })
+      .catch((err) => {
+        console.error('Failed to load WakaTime stats:', err);
+      })
+      .finally(() => setLoading(false));
+  }, []);
 
-  if (!stats) return <div>Loading WakaTime stats...</div>;
+  if (loading) return <div>Loading WakaTime stats...</div>;
+  if (!stats) return <div>WakaTime stats not available.</div>;
 
-  const latestDay = stats.data[stats.data.length - 1];
-  const totalTime = latestDay?.grand_total?.digital || "0:00";
-
+  // Example: show total coding time
   return (
-    <div className="waka-time-stats p-4 bg-base-200 rounded-lg shadow-md mb-4">
-      <h2 className="text-xl font-bold">WakaTime Stats</h2>
-      <p>Latest coding time: {totalTime}</p>
+    <div className="wakatime-stats">
+      <h2>WakaTime Stats</h2>
+      <p>Total Coding Time: {stats.data?.grand_total?.human_readable_total || 'N/A'}</p>
+      <p>Languages:</p>
+      <ul>
+        {stats.data?.languages?.map((lang: any) => (
+          <li key={lang.name}>
+            {lang.name}: {lang.text}
+          </li>
+        ))}
+      </ul>
     </div>
   );
 };

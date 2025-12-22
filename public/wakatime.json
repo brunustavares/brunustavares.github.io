@@ -1,0 +1,7669 @@
+{
+  "data": [
+    {
+      "range": {
+        "start": "2024-12-23T00:00:00Z",
+        "end": "2024-12-23T23:59:59Z",
+        "date": "2024-12-23",
+        "text": "Mon Dec 23rd 2024",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2024-12-24T00:00:00Z",
+        "end": "2024-12-24T23:59:59Z",
+        "date": "2024-12-24",
+        "text": "Tue Dec 24th 2024",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2024-12-25T00:00:00Z",
+        "end": "2024-12-25T23:59:59Z",
+        "date": "2024-12-25",
+        "text": "Wed Dec 25th 2024",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2024-12-26T00:00:00Z",
+        "end": "2024-12-26T23:59:59Z",
+        "date": "2024-12-26",
+        "text": "Thu Dec 26th 2024",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 59,
+        "total_seconds": 3550.114049,
+        "digital": "0:59",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2024-12-27T00:00:00Z",
+        "end": "2024-12-27T23:59:59Z",
+        "date": "2024-12-27",
+        "text": "Fri Dec 27th 2024",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 12,
+        "total_seconds": 744.410131,
+        "digital": "0:12",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2024-12-28T00:00:00Z",
+        "end": "2024-12-28T23:59:59Z",
+        "date": "2024-12-28",
+        "text": "Sat Dec 28th 2024",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2024-12-29T00:00:00Z",
+        "end": "2024-12-29T23:59:59Z",
+        "date": "2024-12-29",
+        "text": "Sun Dec 29th 2024",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2024-12-30T00:00:00Z",
+        "end": "2024-12-30T23:59:59Z",
+        "date": "2024-12-30",
+        "text": "Mon Dec 30th 2024",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2024-12-31T00:00:00Z",
+        "end": "2024-12-31T23:59:59Z",
+        "date": "2024-12-31",
+        "text": "Tue Dec 31st 2024",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-01T00:00:00Z",
+        "end": "2025-01-01T23:59:59Z",
+        "date": "2025-01-01",
+        "text": "Wed Jan 1st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-02T00:00:00Z",
+        "end": "2025-01-02T23:59:59Z",
+        "date": "2025-01-02",
+        "text": "Thu Jan 2nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-03T00:00:00Z",
+        "end": "2025-01-03T23:59:59Z",
+        "date": "2025-01-03",
+        "text": "Fri Jan 3rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 16.348211,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-04T00:00:00Z",
+        "end": "2025-01-04T23:59:59Z",
+        "date": "2025-01-04",
+        "text": "Sat Jan 4th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-05T00:00:00Z",
+        "end": "2025-01-05T23:59:59Z",
+        "date": "2025-01-05",
+        "text": "Sun Jan 5th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-06T00:00:00Z",
+        "end": "2025-01-06T23:59:59Z",
+        "date": "2025-01-06",
+        "text": "Mon Jan 6th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 16.13641,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-07T00:00:00Z",
+        "end": "2025-01-07T23:59:59Z",
+        "date": "2025-01-07",
+        "text": "Tue Jan 7th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 2,
+        "total_seconds": 142.951332,
+        "digital": "0:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-08T00:00:00Z",
+        "end": "2025-01-08T23:59:59Z",
+        "date": "2025-01-08",
+        "text": "Wed Jan 8th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 17.810743,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-09T00:00:00Z",
+        "end": "2025-01-09T23:59:59Z",
+        "date": "2025-01-09",
+        "text": "Thu Jan 9th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 4,
+        "minutes": 20,
+        "total_seconds": 15650.848526,
+        "digital": "4:20",
+        "decimal": "4.33",
+        "text": "4 hrs 20 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-10T00:00:00Z",
+        "end": "2025-01-10T23:59:59Z",
+        "date": "2025-01-10",
+        "text": "Fri Jan 10th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 4,
+        "minutes": 34,
+        "total_seconds": 16475.256078,
+        "digital": "4:34",
+        "decimal": "4.57",
+        "text": "4 hrs 34 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-11T00:00:00Z",
+        "end": "2025-01-11T23:59:59Z",
+        "date": "2025-01-11",
+        "text": "Sat Jan 11th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-12T00:00:00Z",
+        "end": "2025-01-12T23:59:59Z",
+        "date": "2025-01-12",
+        "text": "Sun Jan 12th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-13T00:00:00Z",
+        "end": "2025-01-13T23:59:59Z",
+        "date": "2025-01-13",
+        "text": "Mon Jan 13th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 33,
+        "total_seconds": 9201.466256,
+        "digital": "2:33",
+        "decimal": "2.55",
+        "text": "2 hrs 33 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-14T00:00:00Z",
+        "end": "2025-01-14T23:59:59Z",
+        "date": "2025-01-14",
+        "text": "Tue Jan 14th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 6,
+        "minutes": 18,
+        "total_seconds": 22701.006613,
+        "digital": "6:18",
+        "decimal": "6.30",
+        "text": "6 hrs 18 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-15T00:00:00Z",
+        "end": "2025-01-15T23:59:59Z",
+        "date": "2025-01-15",
+        "text": "Wed Jan 15th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 40,
+        "total_seconds": 2448.088739,
+        "digital": "0:40",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-16T00:00:00Z",
+        "end": "2025-01-16T23:59:59Z",
+        "date": "2025-01-16",
+        "text": "Thu Jan 16th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 28,
+        "total_seconds": 12512.967064,
+        "digital": "3:28",
+        "decimal": "3.47",
+        "text": "3 hrs 28 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-17T00:00:00Z",
+        "end": "2025-01-17T23:59:59Z",
+        "date": "2025-01-17",
+        "text": "Fri Jan 17th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 34,
+        "total_seconds": 5696.235003,
+        "digital": "1:34",
+        "decimal": "1.57",
+        "text": "1 hr 34 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-18T00:00:00Z",
+        "end": "2025-01-18T23:59:59Z",
+        "date": "2025-01-18",
+        "text": "Sat Jan 18th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-19T00:00:00Z",
+        "end": "2025-01-19T23:59:59Z",
+        "date": "2025-01-19",
+        "text": "Sun Jan 19th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-20T00:00:00Z",
+        "end": "2025-01-20T23:59:59Z",
+        "date": "2025-01-20",
+        "text": "Mon Jan 20th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 27,
+        "total_seconds": 12464.292566,
+        "digital": "3:27",
+        "decimal": "3.45",
+        "text": "3 hrs 27 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-21T00:00:00Z",
+        "end": "2025-01-21T23:59:59Z",
+        "date": "2025-01-21",
+        "text": "Tue Jan 21st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 59,
+        "total_seconds": 3567.391065,
+        "digital": "0:59",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-22T00:00:00Z",
+        "end": "2025-01-22T23:59:59Z",
+        "date": "2025-01-22",
+        "text": "Wed Jan 22nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 5,
+        "minutes": 6,
+        "total_seconds": 18366.007464,
+        "digital": "5:06",
+        "decimal": "5.10",
+        "text": "5 hrs 6 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-23T00:00:00Z",
+        "end": "2025-01-23T23:59:59Z",
+        "date": "2025-01-23",
+        "text": "Thu Jan 23rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 18,
+        "total_seconds": 4700.712686,
+        "digital": "1:18",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-24T00:00:00Z",
+        "end": "2025-01-24T23:59:59Z",
+        "date": "2025-01-24",
+        "text": "Fri Jan 24th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 11,
+        "total_seconds": 4302.499043,
+        "digital": "1:11",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-25T00:00:00Z",
+        "end": "2025-01-25T23:59:59Z",
+        "date": "2025-01-25",
+        "text": "Sat Jan 25th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-26T00:00:00Z",
+        "end": "2025-01-26T23:59:59Z",
+        "date": "2025-01-26",
+        "text": "Sun Jan 26th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-27T00:00:00Z",
+        "end": "2025-01-27T23:59:59Z",
+        "date": "2025-01-27",
+        "text": "Mon Jan 27th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 5,
+        "total_seconds": 356.51407,
+        "digital": "0:05",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-28T00:00:00Z",
+        "end": "2025-01-28T23:59:59Z",
+        "date": "2025-01-28",
+        "text": "Tue Jan 28th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 48,
+        "total_seconds": 2919.786703,
+        "digital": "0:48",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-29T00:00:00Z",
+        "end": "2025-01-29T23:59:59Z",
+        "date": "2025-01-29",
+        "text": "Wed Jan 29th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-30T00:00:00Z",
+        "end": "2025-01-30T23:59:59Z",
+        "date": "2025-01-30",
+        "text": "Thu Jan 30th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 5,
+        "minutes": 28,
+        "total_seconds": 19721.685102,
+        "digital": "5:28",
+        "decimal": "5.47",
+        "text": "5 hrs 28 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-01-31T00:00:00Z",
+        "end": "2025-01-31T23:59:59Z",
+        "date": "2025-01-31",
+        "text": "Fri Jan 31st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 4,
+        "minutes": 17,
+        "total_seconds": 15449.327238,
+        "digital": "4:17",
+        "decimal": "4.28",
+        "text": "4 hrs 17 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-01T00:00:00Z",
+        "end": "2025-02-01T23:59:59Z",
+        "date": "2025-02-01",
+        "text": "Sat Feb 1st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-02T00:00:00Z",
+        "end": "2025-02-02T23:59:59Z",
+        "date": "2025-02-02",
+        "text": "Sun Feb 2nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-03T00:00:00Z",
+        "end": "2025-02-03T23:59:59Z",
+        "date": "2025-02-03",
+        "text": "Mon Feb 3rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 46,
+        "total_seconds": 2780.267929,
+        "digital": "0:46",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-04T00:00:00Z",
+        "end": "2025-02-04T23:59:59Z",
+        "date": "2025-02-04",
+        "text": "Tue Feb 4th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 46,
+        "total_seconds": 2812.173656,
+        "digital": "0:46",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-05T00:00:00Z",
+        "end": "2025-02-05T23:59:59Z",
+        "date": "2025-02-05",
+        "text": "Wed Feb 5th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-06T00:00:00Z",
+        "end": "2025-02-06T23:59:59Z",
+        "date": "2025-02-06",
+        "text": "Thu Feb 6th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 1,
+        "total_seconds": 7314.506318,
+        "digital": "2:01",
+        "decimal": "2.02",
+        "text": "2 hrs 1 min",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-07T00:00:00Z",
+        "end": "2025-02-07T23:59:59Z",
+        "date": "2025-02-07",
+        "text": "Fri Feb 7th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 4,
+        "minutes": 1,
+        "total_seconds": 14471.642958,
+        "digital": "4:01",
+        "decimal": "4.02",
+        "text": "4 hrs 1 min",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-08T00:00:00Z",
+        "end": "2025-02-08T23:59:59Z",
+        "date": "2025-02-08",
+        "text": "Sat Feb 8th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-09T00:00:00Z",
+        "end": "2025-02-09T23:59:59Z",
+        "date": "2025-02-09",
+        "text": "Sun Feb 9th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-10T00:00:00Z",
+        "end": "2025-02-10T23:59:59Z",
+        "date": "2025-02-10",
+        "text": "Mon Feb 10th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 2,
+        "total_seconds": 3754.620598,
+        "digital": "1:02",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-11T00:00:00Z",
+        "end": "2025-02-11T23:59:59Z",
+        "date": "2025-02-11",
+        "text": "Tue Feb 11th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 4,
+        "total_seconds": 11048.283774,
+        "digital": "3:04",
+        "decimal": "3.07",
+        "text": "3 hrs 4 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-12T00:00:00Z",
+        "end": "2025-02-12T23:59:59Z",
+        "date": "2025-02-12",
+        "text": "Wed Feb 12th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 4,
+        "total_seconds": 7454.988355,
+        "digital": "2:04",
+        "decimal": "2.07",
+        "text": "2 hrs 4 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-13T00:00:00Z",
+        "end": "2025-02-13T23:59:59Z",
+        "date": "2025-02-13",
+        "text": "Thu Feb 13th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 57,
+        "total_seconds": 10638.725844,
+        "digital": "2:57",
+        "decimal": "2.95",
+        "text": "2 hrs 57 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-14T00:00:00Z",
+        "end": "2025-02-14T23:59:59Z",
+        "date": "2025-02-14",
+        "text": "Fri Feb 14th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 9.691852,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-15T00:00:00Z",
+        "end": "2025-02-15T23:59:59Z",
+        "date": "2025-02-15",
+        "text": "Sat Feb 15th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-16T00:00:00Z",
+        "end": "2025-02-16T23:59:59Z",
+        "date": "2025-02-16",
+        "text": "Sun Feb 16th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-17T00:00:00Z",
+        "end": "2025-02-17T23:59:59Z",
+        "date": "2025-02-17",
+        "text": "Mon Feb 17th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 1,
+        "total_seconds": 3712.429185,
+        "digital": "1:01",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-18T00:00:00Z",
+        "end": "2025-02-18T23:59:59Z",
+        "date": "2025-02-18",
+        "text": "Tue Feb 18th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-19T00:00:00Z",
+        "end": "2025-02-19T23:59:59Z",
+        "date": "2025-02-19",
+        "text": "Wed Feb 19th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 28,
+        "total_seconds": 8914.297332,
+        "digital": "2:28",
+        "decimal": "2.47",
+        "text": "2 hrs 28 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-20T00:00:00Z",
+        "end": "2025-02-20T23:59:59Z",
+        "date": "2025-02-20",
+        "text": "Thu Feb 20th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 5,
+        "total_seconds": 346.169902,
+        "digital": "0:05",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-21T00:00:00Z",
+        "end": "2025-02-21T23:59:59Z",
+        "date": "2025-02-21",
+        "text": "Fri Feb 21st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 19,
+        "total_seconds": 4771.176417,
+        "digital": "1:19",
+        "decimal": "1.32",
+        "text": "1 hr 19 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-22T00:00:00Z",
+        "end": "2025-02-22T23:59:59Z",
+        "date": "2025-02-22",
+        "text": "Sat Feb 22nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-23T00:00:00Z",
+        "end": "2025-02-23T23:59:59Z",
+        "date": "2025-02-23",
+        "text": "Sun Feb 23rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-24T00:00:00Z",
+        "end": "2025-02-24T23:59:59Z",
+        "date": "2025-02-24",
+        "text": "Mon Feb 24th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-25T00:00:00Z",
+        "end": "2025-02-25T23:59:59Z",
+        "date": "2025-02-25",
+        "text": "Tue Feb 25th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-26T00:00:00Z",
+        "end": "2025-02-26T23:59:59Z",
+        "date": "2025-02-26",
+        "text": "Wed Feb 26th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 9,
+        "total_seconds": 553.164516,
+        "digital": "0:09",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-27T00:00:00Z",
+        "end": "2025-02-27T23:59:59Z",
+        "date": "2025-02-27",
+        "text": "Thu Feb 27th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-02-28T00:00:00Z",
+        "end": "2025-02-28T23:59:59Z",
+        "date": "2025-02-28",
+        "text": "Fri Feb 28th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 22,
+        "total_seconds": 1350.556175,
+        "digital": "0:22",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-01T00:00:00Z",
+        "end": "2025-03-01T23:59:59Z",
+        "date": "2025-03-01",
+        "text": "Sat Mar 1st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-02T00:00:00Z",
+        "end": "2025-03-02T23:59:59Z",
+        "date": "2025-03-02",
+        "text": "Sun Mar 2nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-03T00:00:00Z",
+        "end": "2025-03-03T23:59:59Z",
+        "date": "2025-03-03",
+        "text": "Mon Mar 3rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 19,
+        "total_seconds": 1151.384341,
+        "digital": "0:19",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-04T00:00:00Z",
+        "end": "2025-03-04T23:59:59Z",
+        "date": "2025-03-04",
+        "text": "Tue Mar 4th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-05T00:00:00Z",
+        "end": "2025-03-05T23:59:59Z",
+        "date": "2025-03-05",
+        "text": "Wed Mar 5th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 51,
+        "total_seconds": 3098.821031,
+        "digital": "0:51",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-06T00:00:00Z",
+        "end": "2025-03-06T23:59:59Z",
+        "date": "2025-03-06",
+        "text": "Thu Mar 6th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 0,
+        "total_seconds": 10827.507641,
+        "digital": "3:00",
+        "decimal": "3.00",
+        "text": "3 hrs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-07T00:00:00Z",
+        "end": "2025-03-07T23:59:59Z",
+        "date": "2025-03-07",
+        "text": "Fri Mar 7th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 4,
+        "total_seconds": 3880.163946,
+        "digital": "1:04",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-08T00:00:00Z",
+        "end": "2025-03-08T23:59:59Z",
+        "date": "2025-03-08",
+        "text": "Sat Mar 8th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-09T00:00:00Z",
+        "end": "2025-03-09T23:59:59Z",
+        "date": "2025-03-09",
+        "text": "Sun Mar 9th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-10T00:00:00Z",
+        "end": "2025-03-10T23:59:59Z",
+        "date": "2025-03-10",
+        "text": "Mon Mar 10th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 5,
+        "total_seconds": 11138.124749,
+        "digital": "3:05",
+        "decimal": "3.08",
+        "text": "3 hrs 5 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-11T00:00:00Z",
+        "end": "2025-03-11T23:59:59Z",
+        "date": "2025-03-11",
+        "text": "Tue Mar 11th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 40,
+        "total_seconds": 13215.707038,
+        "digital": "3:40",
+        "decimal": "3.67",
+        "text": "3 hrs 40 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-12T00:00:00Z",
+        "end": "2025-03-12T23:59:59Z",
+        "date": "2025-03-12",
+        "text": "Wed Mar 12th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 4,
+        "minutes": 27,
+        "total_seconds": 16060.341271,
+        "digital": "4:27",
+        "decimal": "4.45",
+        "text": "4 hrs 27 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-13T00:00:00Z",
+        "end": "2025-03-13T23:59:59Z",
+        "date": "2025-03-13",
+        "text": "Thu Mar 13th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 19,
+        "total_seconds": 11957.139183,
+        "digital": "3:19",
+        "decimal": "3.32",
+        "text": "3 hrs 19 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-14T00:00:00Z",
+        "end": "2025-03-14T23:59:59Z",
+        "date": "2025-03-14",
+        "text": "Fri Mar 14th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 5,
+        "minutes": 34,
+        "total_seconds": 20054.512303,
+        "digital": "5:34",
+        "decimal": "5.57",
+        "text": "5 hrs 34 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-15T00:00:00Z",
+        "end": "2025-03-15T23:59:59Z",
+        "date": "2025-03-15",
+        "text": "Sat Mar 15th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-16T00:00:00Z",
+        "end": "2025-03-16T23:59:59Z",
+        "date": "2025-03-16",
+        "text": "Sun Mar 16th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-17T00:00:00Z",
+        "end": "2025-03-17T23:59:59Z",
+        "date": "2025-03-17",
+        "text": "Mon Mar 17th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-18T00:00:00Z",
+        "end": "2025-03-18T23:59:59Z",
+        "date": "2025-03-18",
+        "text": "Tue Mar 18th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 31,
+        "total_seconds": 1861.135867,
+        "digital": "0:31",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-19T00:00:00Z",
+        "end": "2025-03-19T23:59:59Z",
+        "date": "2025-03-19",
+        "text": "Wed Mar 19th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 56,
+        "total_seconds": 14165.872305,
+        "digital": "3:56",
+        "decimal": "3.93",
+        "text": "3 hrs 56 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-20T00:00:00Z",
+        "end": "2025-03-20T23:59:59Z",
+        "date": "2025-03-20",
+        "text": "Thu Mar 20th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 41,
+        "total_seconds": 2501.247757,
+        "digital": "0:41",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-21T00:00:00Z",
+        "end": "2025-03-21T23:59:59Z",
+        "date": "2025-03-21",
+        "text": "Fri Mar 21st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 24.108526,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-22T00:00:00Z",
+        "end": "2025-03-22T23:59:59Z",
+        "date": "2025-03-22",
+        "text": "Sat Mar 22nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-23T00:00:00Z",
+        "end": "2025-03-23T23:59:59Z",
+        "date": "2025-03-23",
+        "text": "Sun Mar 23rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-24T00:00:00Z",
+        "end": "2025-03-24T23:59:59Z",
+        "date": "2025-03-24",
+        "text": "Mon Mar 24th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-25T00:00:00Z",
+        "end": "2025-03-25T23:59:59Z",
+        "date": "2025-03-25",
+        "text": "Tue Mar 25th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-26T00:00:00Z",
+        "end": "2025-03-26T23:59:59Z",
+        "date": "2025-03-26",
+        "text": "Wed Mar 26th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-27T00:00:00Z",
+        "end": "2025-03-27T23:59:59Z",
+        "date": "2025-03-27",
+        "text": "Thu Mar 27th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 35,
+        "total_seconds": 9330.569241,
+        "digital": "2:35",
+        "decimal": "2.58",
+        "text": "2 hrs 35 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-28T00:00:00Z",
+        "end": "2025-03-28T23:59:59Z",
+        "date": "2025-03-28",
+        "text": "Fri Mar 28th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 28,
+        "total_seconds": 1725.981286,
+        "digital": "0:28",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-29T00:00:00Z",
+        "end": "2025-03-29T23:59:59Z",
+        "date": "2025-03-29",
+        "text": "Sat Mar 29th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-30T00:00:00Z",
+        "end": "2025-03-30T22:59:59Z",
+        "date": "2025-03-30",
+        "text": "Sun Mar 30th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-30T23:00:00Z",
+        "end": "2025-03-31T22:59:59Z",
+        "date": "2025-03-31",
+        "text": "Mon Mar 31st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-03-31T23:00:00Z",
+        "end": "2025-04-01T22:59:59Z",
+        "date": "2025-04-01",
+        "text": "Tue Apr 1st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-01T23:00:00Z",
+        "end": "2025-04-02T22:59:59Z",
+        "date": "2025-04-02",
+        "text": "Wed Apr 2nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-02T23:00:00Z",
+        "end": "2025-04-03T22:59:59Z",
+        "date": "2025-04-03",
+        "text": "Thu Apr 3rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-03T23:00:00Z",
+        "end": "2025-04-04T22:59:59Z",
+        "date": "2025-04-04",
+        "text": "Fri Apr 4th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-04T23:00:00Z",
+        "end": "2025-04-05T22:59:59Z",
+        "date": "2025-04-05",
+        "text": "Sat Apr 5th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-05T23:00:00Z",
+        "end": "2025-04-06T22:59:59Z",
+        "date": "2025-04-06",
+        "text": "Sun Apr 6th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-06T23:00:00Z",
+        "end": "2025-04-07T22:59:59Z",
+        "date": "2025-04-07",
+        "text": "Mon Apr 7th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-07T23:00:00Z",
+        "end": "2025-04-08T22:59:59Z",
+        "date": "2025-04-08",
+        "text": "Tue Apr 8th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-08T23:00:00Z",
+        "end": "2025-04-09T22:59:59Z",
+        "date": "2025-04-09",
+        "text": "Wed Apr 9th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-09T23:00:00Z",
+        "end": "2025-04-10T22:59:59Z",
+        "date": "2025-04-10",
+        "text": "Thu Apr 10th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 8,
+        "total_seconds": 490.823012,
+        "digital": "0:08",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-10T23:00:00Z",
+        "end": "2025-04-11T22:59:59Z",
+        "date": "2025-04-11",
+        "text": "Fri Apr 11th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-11T23:00:00Z",
+        "end": "2025-04-12T22:59:59Z",
+        "date": "2025-04-12",
+        "text": "Sat Apr 12th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-12T23:00:00Z",
+        "end": "2025-04-13T22:59:59Z",
+        "date": "2025-04-13",
+        "text": "Sun Apr 13th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-13T23:00:00Z",
+        "end": "2025-04-14T22:59:59Z",
+        "date": "2025-04-14",
+        "text": "Mon Apr 14th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 4,
+        "minutes": 3,
+        "total_seconds": 14627.551494,
+        "digital": "4:03",
+        "decimal": "4.05",
+        "text": "4 hrs 3 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-14T23:00:00Z",
+        "end": "2025-04-15T22:59:59Z",
+        "date": "2025-04-15",
+        "text": "Tue Apr 15th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 54,
+        "total_seconds": 3256.343718,
+        "digital": "0:54",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-15T23:00:00Z",
+        "end": "2025-04-16T22:59:59Z",
+        "date": "2025-04-16",
+        "text": "Wed Apr 16th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-16T23:00:00Z",
+        "end": "2025-04-17T22:59:59Z",
+        "date": "2025-04-17",
+        "text": "Thu Apr 17th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 11,
+        "total_seconds": 673.839366,
+        "digital": "0:11",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-17T23:00:00Z",
+        "end": "2025-04-18T22:59:59Z",
+        "date": "2025-04-18",
+        "text": "Fri Apr 18th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-18T23:00:00Z",
+        "end": "2025-04-19T22:59:59Z",
+        "date": "2025-04-19",
+        "text": "Sat Apr 19th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-19T23:00:00Z",
+        "end": "2025-04-20T22:59:59Z",
+        "date": "2025-04-20",
+        "text": "Sun Apr 20th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-20T23:00:00Z",
+        "end": "2025-04-21T22:59:59Z",
+        "date": "2025-04-21",
+        "text": "Mon Apr 21st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 1,
+        "total_seconds": 98.254818,
+        "digital": "0:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-21T23:00:00Z",
+        "end": "2025-04-22T22:59:59Z",
+        "date": "2025-04-22",
+        "text": "Tue Apr 22nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 6,
+        "total_seconds": 377.640938,
+        "digital": "0:06",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-22T23:00:00Z",
+        "end": "2025-04-23T22:59:59Z",
+        "date": "2025-04-23",
+        "text": "Wed Apr 23rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-23T23:00:00Z",
+        "end": "2025-04-24T22:59:59Z",
+        "date": "2025-04-24",
+        "text": "Thu Apr 24th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-24T23:00:00Z",
+        "end": "2025-04-25T22:59:59Z",
+        "date": "2025-04-25",
+        "text": "Fri Apr 25th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-25T23:00:00Z",
+        "end": "2025-04-26T22:59:59Z",
+        "date": "2025-04-26",
+        "text": "Sat Apr 26th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-26T23:00:00Z",
+        "end": "2025-04-27T22:59:59Z",
+        "date": "2025-04-27",
+        "text": "Sun Apr 27th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-27T23:00:00Z",
+        "end": "2025-04-28T22:59:59Z",
+        "date": "2025-04-28",
+        "text": "Mon Apr 28th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-28T23:00:00Z",
+        "end": "2025-04-29T22:59:59Z",
+        "date": "2025-04-29",
+        "text": "Tue Apr 29th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 32,
+        "total_seconds": 5520.910512,
+        "digital": "1:32",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-29T23:00:00Z",
+        "end": "2025-04-30T22:59:59Z",
+        "date": "2025-04-30",
+        "text": "Wed Apr 30th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 2,
+        "total_seconds": 146.639808,
+        "digital": "0:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-04-30T23:00:00Z",
+        "end": "2025-05-01T22:59:59Z",
+        "date": "2025-05-01",
+        "text": "Thu May 1st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-01T23:00:00Z",
+        "end": "2025-05-02T22:59:59Z",
+        "date": "2025-05-02",
+        "text": "Fri May 2nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-02T23:00:00Z",
+        "end": "2025-05-03T22:59:59Z",
+        "date": "2025-05-03",
+        "text": "Sat May 3rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-03T23:00:00Z",
+        "end": "2025-05-04T22:59:59Z",
+        "date": "2025-05-04",
+        "text": "Sun May 4th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-04T23:00:00Z",
+        "end": "2025-05-05T22:59:59Z",
+        "date": "2025-05-05",
+        "text": "Mon May 5th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-05T23:00:00Z",
+        "end": "2025-05-06T22:59:59Z",
+        "date": "2025-05-06",
+        "text": "Tue May 6th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-06T23:00:00Z",
+        "end": "2025-05-07T22:59:59Z",
+        "date": "2025-05-07",
+        "text": "Wed May 7th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 13,
+        "total_seconds": 798.216432,
+        "digital": "0:13",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-07T23:00:00Z",
+        "end": "2025-05-08T22:59:59Z",
+        "date": "2025-05-08",
+        "text": "Thu May 8th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 3,
+        "total_seconds": 185.617589,
+        "digital": "0:03",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-08T23:00:00Z",
+        "end": "2025-05-09T22:59:59Z",
+        "date": "2025-05-09",
+        "text": "Fri May 9th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-09T23:00:00Z",
+        "end": "2025-05-10T22:59:59Z",
+        "date": "2025-05-10",
+        "text": "Sat May 10th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-10T23:00:00Z",
+        "end": "2025-05-11T22:59:59Z",
+        "date": "2025-05-11",
+        "text": "Sun May 11th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-11T23:00:00Z",
+        "end": "2025-05-12T22:59:59Z",
+        "date": "2025-05-12",
+        "text": "Mon May 12th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-12T23:00:00Z",
+        "end": "2025-05-13T22:59:59Z",
+        "date": "2025-05-13",
+        "text": "Tue May 13th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-13T23:00:00Z",
+        "end": "2025-05-14T22:59:59Z",
+        "date": "2025-05-14",
+        "text": "Wed May 14th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-14T23:00:00Z",
+        "end": "2025-05-15T22:59:59Z",
+        "date": "2025-05-15",
+        "text": "Thu May 15th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 48,
+        "total_seconds": 2894.309581,
+        "digital": "0:48",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-15T23:00:00Z",
+        "end": "2025-05-16T22:59:59Z",
+        "date": "2025-05-16",
+        "text": "Fri May 16th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 6,
+        "total_seconds": 4007.014383,
+        "digital": "1:06",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-16T23:00:00Z",
+        "end": "2025-05-17T22:59:59Z",
+        "date": "2025-05-17",
+        "text": "Sat May 17th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-17T23:00:00Z",
+        "end": "2025-05-18T22:59:59Z",
+        "date": "2025-05-18",
+        "text": "Sun May 18th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-18T23:00:00Z",
+        "end": "2025-05-19T22:59:59Z",
+        "date": "2025-05-19",
+        "text": "Mon May 19th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-19T23:00:00Z",
+        "end": "2025-05-20T22:59:59Z",
+        "date": "2025-05-20",
+        "text": "Tue May 20th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 4,
+        "minutes": 9,
+        "total_seconds": 14956.175571,
+        "digital": "4:09",
+        "decimal": "4.15",
+        "text": "4 hrs 9 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-20T23:00:00Z",
+        "end": "2025-05-21T22:59:59Z",
+        "date": "2025-05-21",
+        "text": "Wed May 21st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 0,
+        "total_seconds": 10818.018424,
+        "digital": "3:00",
+        "decimal": "3.00",
+        "text": "3 hrs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-21T23:00:00Z",
+        "end": "2025-05-22T22:59:59Z",
+        "date": "2025-05-22",
+        "text": "Thu May 22nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 42,
+        "total_seconds": 2529.590625,
+        "digital": "0:42",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-22T23:00:00Z",
+        "end": "2025-05-23T22:59:59Z",
+        "date": "2025-05-23",
+        "text": "Fri May 23rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 56,
+        "total_seconds": 14195.953698,
+        "digital": "3:56",
+        "decimal": "3.93",
+        "text": "3 hrs 56 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-23T23:00:00Z",
+        "end": "2025-05-24T22:59:59Z",
+        "date": "2025-05-24",
+        "text": "Sat May 24th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-24T23:00:00Z",
+        "end": "2025-05-25T22:59:59Z",
+        "date": "2025-05-25",
+        "text": "Sun May 25th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-25T23:00:00Z",
+        "end": "2025-05-26T22:59:59Z",
+        "date": "2025-05-26",
+        "text": "Mon May 26th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-26T23:00:00Z",
+        "end": "2025-05-27T22:59:59Z",
+        "date": "2025-05-27",
+        "text": "Tue May 27th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 41,
+        "total_seconds": 6075.130927,
+        "digital": "1:41",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-27T23:00:00Z",
+        "end": "2025-05-28T22:59:59Z",
+        "date": "2025-05-28",
+        "text": "Wed May 28th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 22,
+        "total_seconds": 1325.671147,
+        "digital": "0:22",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-28T23:00:00Z",
+        "end": "2025-05-29T22:59:59Z",
+        "date": "2025-05-29",
+        "text": "Thu May 29th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-29T23:00:00Z",
+        "end": "2025-05-30T22:59:59Z",
+        "date": "2025-05-30",
+        "text": "Fri May 30th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-30T23:00:00Z",
+        "end": "2025-05-31T22:59:59Z",
+        "date": "2025-05-31",
+        "text": "Sat May 31st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-05-31T23:00:00Z",
+        "end": "2025-06-01T22:59:59Z",
+        "date": "2025-06-01",
+        "text": "Sun Jun 1st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-01T23:00:00Z",
+        "end": "2025-06-02T22:59:59Z",
+        "date": "2025-06-02",
+        "text": "Mon Jun 2nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 27,
+        "total_seconds": 5275.578787,
+        "digital": "1:27",
+        "decimal": "1.45",
+        "text": "1 hr 27 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-02T23:00:00Z",
+        "end": "2025-06-03T22:59:59Z",
+        "date": "2025-06-03",
+        "text": "Tue Jun 3rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 1,
+        "total_seconds": 87.305651,
+        "digital": "0:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-03T23:00:00Z",
+        "end": "2025-06-04T22:59:59Z",
+        "date": "2025-06-04",
+        "text": "Wed Jun 4th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 7,
+        "total_seconds": 427.706593,
+        "digital": "0:07",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-04T23:00:00Z",
+        "end": "2025-06-05T22:59:59Z",
+        "date": "2025-06-05",
+        "text": "Thu Jun 5th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 29,
+        "total_seconds": 1787.8909,
+        "digital": "0:29",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-05T23:00:00Z",
+        "end": "2025-06-06T22:59:59Z",
+        "date": "2025-06-06",
+        "text": "Fri Jun 6th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-06T23:00:00Z",
+        "end": "2025-06-07T22:59:59Z",
+        "date": "2025-06-07",
+        "text": "Sat Jun 7th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-07T23:00:00Z",
+        "end": "2025-06-08T22:59:59Z",
+        "date": "2025-06-08",
+        "text": "Sun Jun 8th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-08T23:00:00Z",
+        "end": "2025-06-09T22:59:59Z",
+        "date": "2025-06-09",
+        "text": "Mon Jun 9th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-09T23:00:00Z",
+        "end": "2025-06-10T22:59:59Z",
+        "date": "2025-06-10",
+        "text": "Tue Jun 10th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-10T23:00:00Z",
+        "end": "2025-06-11T22:59:59Z",
+        "date": "2025-06-11",
+        "text": "Wed Jun 11th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-11T23:00:00Z",
+        "end": "2025-06-12T22:59:59Z",
+        "date": "2025-06-12",
+        "text": "Thu Jun 12th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 8,
+        "total_seconds": 530.939503,
+        "digital": "0:08",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-12T23:00:00Z",
+        "end": "2025-06-13T22:59:59Z",
+        "date": "2025-06-13",
+        "text": "Fri Jun 13th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-13T23:00:00Z",
+        "end": "2025-06-14T22:59:59Z",
+        "date": "2025-06-14",
+        "text": "Sat Jun 14th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 24,
+        "total_seconds": 1441.067357,
+        "digital": "0:24",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-14T23:00:00Z",
+        "end": "2025-06-15T22:59:59Z",
+        "date": "2025-06-15",
+        "text": "Sun Jun 15th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 8,
+        "total_seconds": 534.528251,
+        "digital": "0:08",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-15T23:00:00Z",
+        "end": "2025-06-16T22:59:59Z",
+        "date": "2025-06-16",
+        "text": "Mon Jun 16th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 4,
+        "minutes": 32,
+        "total_seconds": 16341.625289,
+        "digital": "4:32",
+        "decimal": "4.53",
+        "text": "4 hrs 32 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-16T23:00:00Z",
+        "end": "2025-06-17T22:59:59Z",
+        "date": "2025-06-17",
+        "text": "Tue Jun 17th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 20,
+        "total_seconds": 8442.306047,
+        "digital": "2:20",
+        "decimal": "2.33",
+        "text": "2 hrs 20 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-17T23:00:00Z",
+        "end": "2025-06-18T22:59:59Z",
+        "date": "2025-06-18",
+        "text": "Wed Jun 18th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 15,
+        "total_seconds": 4552.597997,
+        "digital": "1:15",
+        "decimal": "1.25",
+        "text": "1 hr 15 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-18T23:00:00Z",
+        "end": "2025-06-19T22:59:59Z",
+        "date": "2025-06-19",
+        "text": "Thu Jun 19th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 11,
+        "total_seconds": 715.116152,
+        "digital": "0:11",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-19T23:00:00Z",
+        "end": "2025-06-20T22:59:59Z",
+        "date": "2025-06-20",
+        "text": "Fri Jun 20th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 6,
+        "minutes": 23,
+        "total_seconds": 23032.062282,
+        "digital": "6:23",
+        "decimal": "6.38",
+        "text": "6 hrs 23 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-20T23:00:00Z",
+        "end": "2025-06-21T22:59:59Z",
+        "date": "2025-06-21",
+        "text": "Sat Jun 21st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-21T23:00:00Z",
+        "end": "2025-06-22T22:59:59Z",
+        "date": "2025-06-22",
+        "text": "Sun Jun 22nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-22T23:00:00Z",
+        "end": "2025-06-23T22:59:59Z",
+        "date": "2025-06-23",
+        "text": "Mon Jun 23rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 41,
+        "total_seconds": 6093.281424,
+        "digital": "1:41",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-23T23:00:00Z",
+        "end": "2025-06-24T22:59:59Z",
+        "date": "2025-06-24",
+        "text": "Tue Jun 24th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 18,
+        "total_seconds": 11884.742168,
+        "digital": "3:18",
+        "decimal": "3.30",
+        "text": "3 hrs 18 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-24T23:00:00Z",
+        "end": "2025-06-25T22:59:59Z",
+        "date": "2025-06-25",
+        "text": "Wed Jun 25th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 5,
+        "minutes": 8,
+        "total_seconds": 18517.356684,
+        "digital": "5:08",
+        "decimal": "5.13",
+        "text": "5 hrs 8 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-25T23:00:00Z",
+        "end": "2025-06-26T22:59:59Z",
+        "date": "2025-06-26",
+        "text": "Thu Jun 26th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 41,
+        "total_seconds": 9688.046995,
+        "digital": "2:41",
+        "decimal": "2.68",
+        "text": "2 hrs 41 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-26T23:00:00Z",
+        "end": "2025-06-27T22:59:59Z",
+        "date": "2025-06-27",
+        "text": "Fri Jun 27th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 5,
+        "minutes": 4,
+        "total_seconds": 18297.663973,
+        "digital": "5:04",
+        "decimal": "5.07",
+        "text": "5 hrs 4 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-27T23:00:00Z",
+        "end": "2025-06-28T22:59:59Z",
+        "date": "2025-06-28",
+        "text": "Sat Jun 28th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 24,
+        "total_seconds": 1467.932383,
+        "digital": "0:24",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-28T23:00:00Z",
+        "end": "2025-06-29T22:59:59Z",
+        "date": "2025-06-29",
+        "text": "Sun Jun 29th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-29T23:00:00Z",
+        "end": "2025-06-30T22:59:59Z",
+        "date": "2025-06-30",
+        "text": "Mon Jun 30th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 4,
+        "minutes": 41,
+        "total_seconds": 16880.859098,
+        "digital": "4:41",
+        "decimal": "4.68",
+        "text": "4 hrs 41 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-06-30T23:00:00Z",
+        "end": "2025-07-01T22:59:59Z",
+        "date": "2025-07-01",
+        "text": "Tue Jul 1st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 2,
+        "total_seconds": 131.128398,
+        "digital": "0:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-01T23:00:00Z",
+        "end": "2025-07-02T22:59:59Z",
+        "date": "2025-07-02",
+        "text": "Wed Jul 2nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 45,
+        "total_seconds": 2722.609539,
+        "digital": "0:45",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-02T23:00:00Z",
+        "end": "2025-07-03T22:59:59Z",
+        "date": "2025-07-03",
+        "text": "Thu Jul 3rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 28,
+        "total_seconds": 5333.892128,
+        "digital": "1:28",
+        "decimal": "1.47",
+        "text": "1 hr 28 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-03T23:00:00Z",
+        "end": "2025-07-04T22:59:59Z",
+        "date": "2025-07-04",
+        "text": "Fri Jul 4th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 8,
+        "total_seconds": 11280.553364,
+        "digital": "3:08",
+        "decimal": "3.13",
+        "text": "3 hrs 8 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-04T23:00:00Z",
+        "end": "2025-07-05T22:59:59Z",
+        "date": "2025-07-05",
+        "text": "Sat Jul 5th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-05T23:00:00Z",
+        "end": "2025-07-06T22:59:59Z",
+        "date": "2025-07-06",
+        "text": "Sun Jul 6th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-06T23:00:00Z",
+        "end": "2025-07-07T22:59:59Z",
+        "date": "2025-07-07",
+        "text": "Mon Jul 7th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 14,
+        "total_seconds": 8062.259602,
+        "digital": "2:14",
+        "decimal": "2.23",
+        "text": "2 hrs 14 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-07T23:00:00Z",
+        "end": "2025-07-08T22:59:59Z",
+        "date": "2025-07-08",
+        "text": "Tue Jul 8th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-08T23:00:00Z",
+        "end": "2025-07-09T22:59:59Z",
+        "date": "2025-07-09",
+        "text": "Wed Jul 9th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 28,
+        "total_seconds": 1712.844574,
+        "digital": "0:28",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-09T23:00:00Z",
+        "end": "2025-07-10T22:59:59Z",
+        "date": "2025-07-10",
+        "text": "Thu Jul 10th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 35,
+        "total_seconds": 2154.523775,
+        "digital": "0:35",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-10T23:00:00Z",
+        "end": "2025-07-11T22:59:59Z",
+        "date": "2025-07-11",
+        "text": "Fri Jul 11th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 15,
+        "total_seconds": 957.348192,
+        "digital": "0:15",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-11T23:00:00Z",
+        "end": "2025-07-12T22:59:59Z",
+        "date": "2025-07-12",
+        "text": "Sat Jul 12th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-12T23:00:00Z",
+        "end": "2025-07-13T22:59:59Z",
+        "date": "2025-07-13",
+        "text": "Sun Jul 13th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-13T23:00:00Z",
+        "end": "2025-07-14T22:59:59Z",
+        "date": "2025-07-14",
+        "text": "Mon Jul 14th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 6,
+        "minutes": 11,
+        "total_seconds": 22285.260216,
+        "digital": "6:11",
+        "decimal": "6.18",
+        "text": "6 hrs 11 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-14T23:00:00Z",
+        "end": "2025-07-15T22:59:59Z",
+        "date": "2025-07-15",
+        "text": "Tue Jul 15th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 58,
+        "total_seconds": 7080.598772,
+        "digital": "1:58",
+        "decimal": "1.97",
+        "text": "1 hr 58 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-15T23:00:00Z",
+        "end": "2025-07-16T22:59:59Z",
+        "date": "2025-07-16",
+        "text": "Wed Jul 16th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 50,
+        "total_seconds": 10230.155595,
+        "digital": "2:50",
+        "decimal": "2.83",
+        "text": "2 hrs 50 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-16T23:00:00Z",
+        "end": "2025-07-17T22:59:59Z",
+        "date": "2025-07-17",
+        "text": "Thu Jul 17th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 38,
+        "total_seconds": 9522.404755,
+        "digital": "2:38",
+        "decimal": "2.63",
+        "text": "2 hrs 38 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-17T23:00:00Z",
+        "end": "2025-07-18T22:59:59Z",
+        "date": "2025-07-18",
+        "text": "Fri Jul 18th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 10,
+        "total_seconds": 629.232588,
+        "digital": "0:10",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-18T23:00:00Z",
+        "end": "2025-07-19T22:59:59Z",
+        "date": "2025-07-19",
+        "text": "Sat Jul 19th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-19T23:00:00Z",
+        "end": "2025-07-20T22:59:59Z",
+        "date": "2025-07-20",
+        "text": "Sun Jul 20th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-20T23:00:00Z",
+        "end": "2025-07-21T22:59:59Z",
+        "date": "2025-07-21",
+        "text": "Mon Jul 21st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 17,
+        "total_seconds": 1062.101887,
+        "digital": "0:17",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-21T23:00:00Z",
+        "end": "2025-07-22T22:59:59Z",
+        "date": "2025-07-22",
+        "text": "Tue Jul 22nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-22T23:00:00Z",
+        "end": "2025-07-23T22:59:59Z",
+        "date": "2025-07-23",
+        "text": "Wed Jul 23rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-23T23:00:00Z",
+        "end": "2025-07-24T22:59:59Z",
+        "date": "2025-07-24",
+        "text": "Thu Jul 24th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-24T23:00:00Z",
+        "end": "2025-07-25T22:59:59Z",
+        "date": "2025-07-25",
+        "text": "Fri Jul 25th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-25T23:00:00Z",
+        "end": "2025-07-26T22:59:59Z",
+        "date": "2025-07-26",
+        "text": "Sat Jul 26th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-26T23:00:00Z",
+        "end": "2025-07-27T22:59:59Z",
+        "date": "2025-07-27",
+        "text": "Sun Jul 27th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-27T23:00:00Z",
+        "end": "2025-07-28T22:59:59Z",
+        "date": "2025-07-28",
+        "text": "Mon Jul 28th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 52,
+        "total_seconds": 6743.540437,
+        "digital": "1:52",
+        "decimal": "1.87",
+        "text": "1 hr 52 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-28T23:00:00Z",
+        "end": "2025-07-29T22:59:59Z",
+        "date": "2025-07-29",
+        "text": "Tue Jul 29th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 41,
+        "total_seconds": 2465.054665,
+        "digital": "0:41",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-29T23:00:00Z",
+        "end": "2025-07-30T22:59:59Z",
+        "date": "2025-07-30",
+        "text": "Wed Jul 30th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-30T23:00:00Z",
+        "end": "2025-07-31T22:59:59Z",
+        "date": "2025-07-31",
+        "text": "Thu Jul 31st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 23,
+        "total_seconds": 4992.97,
+        "digital": "1:23",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-07-31T23:00:00Z",
+        "end": "2025-08-01T22:59:59Z",
+        "date": "2025-08-01",
+        "text": "Fri Aug 1st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 21,
+        "total_seconds": 1317.574,
+        "digital": "0:21",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-01T23:00:00Z",
+        "end": "2025-08-02T22:59:59Z",
+        "date": "2025-08-02",
+        "text": "Sat Aug 2nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-02T23:00:00Z",
+        "end": "2025-08-03T22:59:59Z",
+        "date": "2025-08-03",
+        "text": "Sun Aug 3rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-03T23:00:00Z",
+        "end": "2025-08-04T22:59:59Z",
+        "date": "2025-08-04",
+        "text": "Mon Aug 4th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 8,
+        "total_seconds": 508.882,
+        "digital": "0:08",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-04T23:00:00Z",
+        "end": "2025-08-05T22:59:59Z",
+        "date": "2025-08-05",
+        "text": "Tue Aug 5th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 1,
+        "total_seconds": 81.945,
+        "digital": "0:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-05T23:00:00Z",
+        "end": "2025-08-06T22:59:59Z",
+        "date": "2025-08-06",
+        "text": "Wed Aug 6th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 28,
+        "total_seconds": 5331.36,
+        "digital": "1:28",
+        "decimal": "1.47",
+        "text": "1 hr 28 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 47,
+        "human_deletions": 17
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-06T23:00:00Z",
+        "end": "2025-08-07T22:59:59Z",
+        "date": "2025-08-07",
+        "text": "Thu Aug 7th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 3.925,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-07T23:00:00Z",
+        "end": "2025-08-08T22:59:59Z",
+        "date": "2025-08-08",
+        "text": "Fri Aug 8th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 2,
+        "total_seconds": 162.023,
+        "digital": "0:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-08T23:00:00Z",
+        "end": "2025-08-09T22:59:59Z",
+        "date": "2025-08-09",
+        "text": "Sat Aug 9th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-09T23:00:00Z",
+        "end": "2025-08-10T22:59:59Z",
+        "date": "2025-08-10",
+        "text": "Sun Aug 10th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-10T23:00:00Z",
+        "end": "2025-08-11T22:59:59Z",
+        "date": "2025-08-11",
+        "text": "Mon Aug 11th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-11T23:00:00Z",
+        "end": "2025-08-12T22:59:59Z",
+        "date": "2025-08-12",
+        "text": "Tue Aug 12th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 16,
+        "total_seconds": 974.134,
+        "digital": "0:16",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 11,
+        "human_deletions": 3
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-12T23:00:00Z",
+        "end": "2025-08-13T22:59:59Z",
+        "date": "2025-08-13",
+        "text": "Wed Aug 13th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-13T23:00:00Z",
+        "end": "2025-08-14T22:59:59Z",
+        "date": "2025-08-14",
+        "text": "Thu Aug 14th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-14T23:00:00Z",
+        "end": "2025-08-15T22:59:59Z",
+        "date": "2025-08-15",
+        "text": "Fri Aug 15th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-15T23:00:00Z",
+        "end": "2025-08-16T22:59:59Z",
+        "date": "2025-08-16",
+        "text": "Sat Aug 16th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-16T23:00:00Z",
+        "end": "2025-08-17T22:59:59Z",
+        "date": "2025-08-17",
+        "text": "Sun Aug 17th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-17T23:00:00Z",
+        "end": "2025-08-18T22:59:59Z",
+        "date": "2025-08-18",
+        "text": "Mon Aug 18th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-18T23:00:00Z",
+        "end": "2025-08-19T22:59:59Z",
+        "date": "2025-08-19",
+        "text": "Tue Aug 19th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 1,
+        "total_seconds": 69.282,
+        "digital": "0:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-19T23:00:00Z",
+        "end": "2025-08-20T22:59:59Z",
+        "date": "2025-08-20",
+        "text": "Wed Aug 20th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 30,
+        "total_seconds": 1833.145,
+        "digital": "0:30",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 2,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-20T23:00:00Z",
+        "end": "2025-08-21T22:59:59Z",
+        "date": "2025-08-21",
+        "text": "Thu Aug 21st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 4,
+        "minutes": 4,
+        "total_seconds": 14670.047,
+        "digital": "4:04",
+        "decimal": "4.07",
+        "text": "4 hrs 4 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 354,
+        "human_deletions": 186
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-21T23:00:00Z",
+        "end": "2025-08-22T22:59:59Z",
+        "date": "2025-08-22",
+        "text": "Fri Aug 22nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 16,
+        "total_seconds": 11764.46,
+        "digital": "3:16",
+        "decimal": "3.27",
+        "text": "3 hrs 16 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 276,
+        "human_deletions": 34
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-22T23:00:00Z",
+        "end": "2025-08-23T22:59:59Z",
+        "date": "2025-08-23",
+        "text": "Sat Aug 23rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-23T23:00:00Z",
+        "end": "2025-08-24T22:59:59Z",
+        "date": "2025-08-24",
+        "text": "Sun Aug 24th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-24T23:00:00Z",
+        "end": "2025-08-25T22:59:59Z",
+        "date": "2025-08-25",
+        "text": "Mon Aug 25th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 21,
+        "total_seconds": 1304.737,
+        "digital": "0:21",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 1,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-25T23:00:00Z",
+        "end": "2025-08-26T22:59:59Z",
+        "date": "2025-08-26",
+        "text": "Tue Aug 26th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 45,
+        "total_seconds": 9935.21,
+        "digital": "2:45",
+        "decimal": "2.75",
+        "text": "2 hrs 45 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 16,
+        "human_deletions": 9
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-26T23:00:00Z",
+        "end": "2025-08-27T22:59:59Z",
+        "date": "2025-08-27",
+        "text": "Wed Aug 27th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-27T23:00:00Z",
+        "end": "2025-08-28T22:59:59Z",
+        "date": "2025-08-28",
+        "text": "Thu Aug 28th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 30,
+        "total_seconds": 1828.898,
+        "digital": "0:30",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 7,
+        "human_deletions": 1
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-28T23:00:00Z",
+        "end": "2025-08-29T22:59:59Z",
+        "date": "2025-08-29",
+        "text": "Fri Aug 29th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 15,
+        "total_seconds": 8159.763,
+        "digital": "2:15",
+        "decimal": "2.25",
+        "text": "2 hrs 15 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 65,
+        "human_deletions": 8
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-29T23:00:00Z",
+        "end": "2025-08-30T22:59:59Z",
+        "date": "2025-08-30",
+        "text": "Sat Aug 30th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-30T23:00:00Z",
+        "end": "2025-08-31T22:59:59Z",
+        "date": "2025-08-31",
+        "text": "Sun Aug 31st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-08-31T23:00:00Z",
+        "end": "2025-09-01T22:59:59Z",
+        "date": "2025-09-01",
+        "text": "Mon Sep 1st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 31.586,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-01T23:00:00Z",
+        "end": "2025-09-02T22:59:59Z",
+        "date": "2025-09-02",
+        "text": "Tue Sep 2nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 22,
+        "total_seconds": 1347.262,
+        "digital": "0:22",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 11,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-02T23:00:00Z",
+        "end": "2025-09-03T22:59:59Z",
+        "date": "2025-09-03",
+        "text": "Wed Sep 3rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 47,
+        "total_seconds": 10046.437,
+        "digital": "2:47",
+        "decimal": "2.78",
+        "text": "2 hrs 47 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 55,
+        "human_deletions": 24
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-03T23:00:00Z",
+        "end": "2025-09-04T22:59:59Z",
+        "date": "2025-09-04",
+        "text": "Thu Sep 4th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 17,
+        "total_seconds": 1070.944,
+        "digital": "0:17",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 1,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-04T23:00:00Z",
+        "end": "2025-09-05T22:59:59Z",
+        "date": "2025-09-05",
+        "text": "Fri Sep 5th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 11,
+        "total_seconds": 715.508,
+        "digital": "0:11",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 3,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-05T23:00:00Z",
+        "end": "2025-09-06T22:59:59Z",
+        "date": "2025-09-06",
+        "text": "Sat Sep 6th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-06T23:00:00Z",
+        "end": "2025-09-07T22:59:59Z",
+        "date": "2025-09-07",
+        "text": "Sun Sep 7th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-07T23:00:00Z",
+        "end": "2025-09-08T22:59:59Z",
+        "date": "2025-09-08",
+        "text": "Mon Sep 8th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-08T23:00:00Z",
+        "end": "2025-09-09T22:59:59Z",
+        "date": "2025-09-09",
+        "text": "Tue Sep 9th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-09T23:00:00Z",
+        "end": "2025-09-10T22:59:59Z",
+        "date": "2025-09-10",
+        "text": "Wed Sep 10th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-10T23:00:00Z",
+        "end": "2025-09-11T22:59:59Z",
+        "date": "2025-09-11",
+        "text": "Thu Sep 11th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-11T23:00:00Z",
+        "end": "2025-09-12T22:59:59Z",
+        "date": "2025-09-12",
+        "text": "Fri Sep 12th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-12T23:00:00Z",
+        "end": "2025-09-13T22:59:59Z",
+        "date": "2025-09-13",
+        "text": "Sat Sep 13th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-13T23:00:00Z",
+        "end": "2025-09-14T22:59:59Z",
+        "date": "2025-09-14",
+        "text": "Sun Sep 14th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-14T23:00:00Z",
+        "end": "2025-09-15T22:59:59Z",
+        "date": "2025-09-15",
+        "text": "Mon Sep 15th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-15T23:00:00Z",
+        "end": "2025-09-16T22:59:59Z",
+        "date": "2025-09-16",
+        "text": "Tue Sep 16th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-16T23:00:00Z",
+        "end": "2025-09-17T22:59:59Z",
+        "date": "2025-09-17",
+        "text": "Wed Sep 17th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-17T23:00:00Z",
+        "end": "2025-09-18T22:59:59Z",
+        "date": "2025-09-18",
+        "text": "Thu Sep 18th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-18T23:00:00Z",
+        "end": "2025-09-19T22:59:59Z",
+        "date": "2025-09-19",
+        "text": "Fri Sep 19th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-19T23:00:00Z",
+        "end": "2025-09-20T22:59:59Z",
+        "date": "2025-09-20",
+        "text": "Sat Sep 20th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-20T23:00:00Z",
+        "end": "2025-09-21T22:59:59Z",
+        "date": "2025-09-21",
+        "text": "Sun Sep 21st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-21T23:00:00Z",
+        "end": "2025-09-22T22:59:59Z",
+        "date": "2025-09-22",
+        "text": "Mon Sep 22nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-22T23:00:00Z",
+        "end": "2025-09-23T22:59:59Z",
+        "date": "2025-09-23",
+        "text": "Tue Sep 23rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-23T23:00:00Z",
+        "end": "2025-09-24T22:59:59Z",
+        "date": "2025-09-24",
+        "text": "Wed Sep 24th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-24T23:00:00Z",
+        "end": "2025-09-25T22:59:59Z",
+        "date": "2025-09-25",
+        "text": "Thu Sep 25th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-25T23:00:00Z",
+        "end": "2025-09-26T22:59:59Z",
+        "date": "2025-09-26",
+        "text": "Fri Sep 26th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-26T23:00:00Z",
+        "end": "2025-09-27T22:59:59Z",
+        "date": "2025-09-27",
+        "text": "Sat Sep 27th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-27T23:00:00Z",
+        "end": "2025-09-28T22:59:59Z",
+        "date": "2025-09-28",
+        "text": "Sun Sep 28th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-28T23:00:00Z",
+        "end": "2025-09-29T22:59:59Z",
+        "date": "2025-09-29",
+        "text": "Mon Sep 29th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 49,
+        "total_seconds": 2946.094,
+        "digital": "0:49",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 16,
+        "human_deletions": 15
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-29T23:00:00Z",
+        "end": "2025-09-30T22:59:59Z",
+        "date": "2025-09-30",
+        "text": "Tue Sep 30th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 20,
+        "total_seconds": 1209.5,
+        "digital": "0:20",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 168,
+        "human_deletions": 75
+      }
+    },
+    {
+      "range": {
+        "start": "2025-09-30T23:00:00Z",
+        "end": "2025-10-01T22:59:59Z",
+        "date": "2025-10-01",
+        "text": "Wed Oct 1st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-01T23:00:00Z",
+        "end": "2025-10-02T22:59:59Z",
+        "date": "2025-10-02",
+        "text": "Thu Oct 2nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 23,
+        "total_seconds": 5006.04,
+        "digital": "1:23",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 354,
+        "human_deletions": 91
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-02T23:00:00Z",
+        "end": "2025-10-03T22:59:59Z",
+        "date": "2025-10-03",
+        "text": "Fri Oct 3rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 27,
+        "total_seconds": 8875.357,
+        "digital": "2:27",
+        "decimal": "2.45",
+        "text": "2 hrs 27 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 149,
+        "human_deletions": 6
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-03T23:00:00Z",
+        "end": "2025-10-04T22:59:59Z",
+        "date": "2025-10-04",
+        "text": "Sat Oct 4th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-04T23:00:00Z",
+        "end": "2025-10-05T22:59:59Z",
+        "date": "2025-10-05",
+        "text": "Sun Oct 5th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-05T23:00:00Z",
+        "end": "2025-10-06T22:59:59Z",
+        "date": "2025-10-06",
+        "text": "Mon Oct 6th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 13,
+        "total_seconds": 11606.321,
+        "digital": "3:13",
+        "decimal": "3.22",
+        "text": "3 hrs 13 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 291,
+        "human_deletions": 229
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-06T23:00:00Z",
+        "end": "2025-10-07T22:59:59Z",
+        "date": "2025-10-07",
+        "text": "Tue Oct 7th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 9,
+        "total_seconds": 579.418,
+        "digital": "0:09",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 4,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-07T23:00:00Z",
+        "end": "2025-10-08T22:59:59Z",
+        "date": "2025-10-08",
+        "text": "Wed Oct 8th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 44,
+        "total_seconds": 9882.333,
+        "digital": "2:44",
+        "decimal": "2.73",
+        "text": "2 hrs 44 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 137,
+        "human_deletions": 256
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-08T23:00:00Z",
+        "end": "2025-10-09T22:59:59Z",
+        "date": "2025-10-09",
+        "text": "Thu Oct 9th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 36,
+        "total_seconds": 5819.593,
+        "digital": "1:36",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 271,
+        "human_deletions": 49
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-09T23:00:00Z",
+        "end": "2025-10-10T22:59:59Z",
+        "date": "2025-10-10",
+        "text": "Fri Oct 10th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 4,
+        "total_seconds": 3899.686,
+        "digital": "1:04",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 3,
+        "human_deletions": 4
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-10T23:00:00Z",
+        "end": "2025-10-11T22:59:59Z",
+        "date": "2025-10-11",
+        "text": "Sat Oct 11th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-11T23:00:00Z",
+        "end": "2025-10-12T22:59:59Z",
+        "date": "2025-10-12",
+        "text": "Sun Oct 12th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-12T23:00:00Z",
+        "end": "2025-10-13T22:59:59Z",
+        "date": "2025-10-13",
+        "text": "Mon Oct 13th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-13T23:00:00Z",
+        "end": "2025-10-14T22:59:59Z",
+        "date": "2025-10-14",
+        "text": "Tue Oct 14th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-14T23:00:00Z",
+        "end": "2025-10-15T22:59:59Z",
+        "date": "2025-10-15",
+        "text": "Wed Oct 15th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-15T23:00:00Z",
+        "end": "2025-10-16T22:59:59Z",
+        "date": "2025-10-16",
+        "text": "Thu Oct 16th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-16T23:00:00Z",
+        "end": "2025-10-17T22:59:59Z",
+        "date": "2025-10-17",
+        "text": "Fri Oct 17th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 12,
+        "total_seconds": 761.076,
+        "digital": "0:12",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 36,
+        "human_deletions": 1
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-17T23:00:00Z",
+        "end": "2025-10-18T22:59:59Z",
+        "date": "2025-10-18",
+        "text": "Sat Oct 18th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-18T23:00:00Z",
+        "end": "2025-10-19T22:59:59Z",
+        "date": "2025-10-19",
+        "text": "Sun Oct 19th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-19T23:00:00Z",
+        "end": "2025-10-20T22:59:59Z",
+        "date": "2025-10-20",
+        "text": "Mon Oct 20th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-20T23:00:00Z",
+        "end": "2025-10-21T22:59:59Z",
+        "date": "2025-10-21",
+        "text": "Tue Oct 21st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-21T23:00:00Z",
+        "end": "2025-10-22T22:59:59Z",
+        "date": "2025-10-22",
+        "text": "Wed Oct 22nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-22T23:00:00Z",
+        "end": "2025-10-23T22:59:59Z",
+        "date": "2025-10-23",
+        "text": "Thu Oct 23rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-23T23:00:00Z",
+        "end": "2025-10-24T22:59:59Z",
+        "date": "2025-10-24",
+        "text": "Fri Oct 24th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 21,
+        "total_seconds": 12071.837,
+        "digital": "3:21",
+        "decimal": "3.35",
+        "text": "3 hrs 21 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 48,
+        "human_deletions": 29
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-24T23:00:00Z",
+        "end": "2025-10-25T22:59:59Z",
+        "date": "2025-10-25",
+        "text": "Sat Oct 25th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-25T23:00:00Z",
+        "end": "2025-10-26T23:59:59Z",
+        "date": "2025-10-26",
+        "text": "Sun Oct 26th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-27T00:00:00Z",
+        "end": "2025-10-27T23:59:59Z",
+        "date": "2025-10-27",
+        "text": "Mon Oct 27th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 9,
+        "total_seconds": 549.21,
+        "digital": "0:09",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-28T00:00:00Z",
+        "end": "2025-10-28T23:59:59Z",
+        "date": "2025-10-28",
+        "text": "Tue Oct 28th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 0,
+        "total_seconds": 3634.91,
+        "digital": "1:00",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 4,
+        "human_deletions": 4
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-29T00:00:00Z",
+        "end": "2025-10-29T23:59:59Z",
+        "date": "2025-10-29",
+        "text": "Wed Oct 29th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 43,
+        "total_seconds": 6205.816,
+        "digital": "1:43",
+        "decimal": "1.72",
+        "text": "1 hr 43 mins",
+        "ai_additions": 6,
+        "ai_deletions": 0,
+        "human_additions": 32,
+        "human_deletions": 33
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-30T00:00:00Z",
+        "end": "2025-10-30T23:59:59Z",
+        "date": "2025-10-30",
+        "text": "Thu Oct 30th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 12,
+        "total_seconds": 11533.078,
+        "digital": "3:12",
+        "decimal": "3.20",
+        "text": "3 hrs 12 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 140,
+        "human_deletions": 47
+      }
+    },
+    {
+      "range": {
+        "start": "2025-10-31T00:00:00Z",
+        "end": "2025-10-31T23:59:59Z",
+        "date": "2025-10-31",
+        "text": "Fri Oct 31st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 4,
+        "minutes": 46,
+        "total_seconds": 17195.546,
+        "digital": "4:46",
+        "decimal": "4.77",
+        "text": "4 hrs 46 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 612,
+        "human_deletions": 708
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-01T00:00:00Z",
+        "end": "2025-11-01T23:59:59Z",
+        "date": "2025-11-01",
+        "text": "Sat Nov 1st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-02T00:00:00Z",
+        "end": "2025-11-02T23:59:59Z",
+        "date": "2025-11-02",
+        "text": "Sun Nov 2nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-03T00:00:00Z",
+        "end": "2025-11-03T23:59:59Z",
+        "date": "2025-11-03",
+        "text": "Mon Nov 3rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 51,
+        "total_seconds": 10272.839,
+        "digital": "2:51",
+        "decimal": "2.85",
+        "text": "2 hrs 51 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 84,
+        "human_deletions": 60
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-04T00:00:00Z",
+        "end": "2025-11-04T23:59:59Z",
+        "date": "2025-11-04",
+        "text": "Tue Nov 4th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 3,
+        "minutes": 10,
+        "total_seconds": 11422.929,
+        "digital": "3:10",
+        "decimal": "3.17",
+        "text": "3 hrs 10 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 17,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-05T00:00:00Z",
+        "end": "2025-11-05T23:59:59Z",
+        "date": "2025-11-05",
+        "text": "Wed Nov 5th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 48,
+        "total_seconds": 6512.623,
+        "digital": "1:48",
+        "decimal": "1.80",
+        "text": "1 hr 48 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 16,
+        "human_deletions": 4
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-06T00:00:00Z",
+        "end": "2025-11-06T23:59:59Z",
+        "date": "2025-11-06",
+        "text": "Thu Nov 6th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 47,
+        "total_seconds": 2870.199,
+        "digital": "0:47",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 40,
+        "human_deletions": 18
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-07T00:00:00Z",
+        "end": "2025-11-07T23:59:59Z",
+        "date": "2025-11-07",
+        "text": "Fri Nov 7th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 4,
+        "minutes": 45,
+        "total_seconds": 17118.016,
+        "digital": "4:45",
+        "decimal": "4.75",
+        "text": "4 hrs 45 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 130,
+        "human_deletions": 53
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-08T00:00:00Z",
+        "end": "2025-11-08T23:59:59Z",
+        "date": "2025-11-08",
+        "text": "Sat Nov 8th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-09T00:00:00Z",
+        "end": "2025-11-09T23:59:59Z",
+        "date": "2025-11-09",
+        "text": "Sun Nov 9th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-10T00:00:00Z",
+        "end": "2025-11-10T23:59:59Z",
+        "date": "2025-11-10",
+        "text": "Mon Nov 10th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 34,
+        "total_seconds": 9247.951,
+        "digital": "2:34",
+        "decimal": "2.57",
+        "text": "2 hrs 34 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 221,
+        "human_deletions": 77
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-11T00:00:00Z",
+        "end": "2025-11-11T23:59:59Z",
+        "date": "2025-11-11",
+        "text": "Tue Nov 11th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 6,
+        "minutes": 5,
+        "total_seconds": 21901.509,
+        "digital": "6:05",
+        "decimal": "6.08",
+        "text": "6 hrs 5 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 407,
+        "human_deletions": 136
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-12T00:00:00Z",
+        "end": "2025-11-12T23:59:59Z",
+        "date": "2025-11-12",
+        "text": "Wed Nov 12th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 19,
+        "total_seconds": 8374.051,
+        "digital": "2:19",
+        "decimal": "2.32",
+        "text": "2 hrs 19 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 23,
+        "human_deletions": 21
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-13T00:00:00Z",
+        "end": "2025-11-13T23:59:59Z",
+        "date": "2025-11-13",
+        "text": "Thu Nov 13th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 6,
+        "minutes": 20,
+        "total_seconds": 22834.573,
+        "digital": "6:20",
+        "decimal": "6.33",
+        "text": "6 hrs 20 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 297,
+        "human_deletions": 81
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-14T00:00:00Z",
+        "end": "2025-11-14T23:59:59Z",
+        "date": "2025-11-14",
+        "text": "Fri Nov 14th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 6,
+        "minutes": 13,
+        "total_seconds": 22380.95,
+        "digital": "6:13",
+        "decimal": "6.22",
+        "text": "6 hrs 13 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 174,
+        "human_deletions": 243
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-15T00:00:00Z",
+        "end": "2025-11-15T23:59:59Z",
+        "date": "2025-11-15",
+        "text": "Sat Nov 15th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-16T00:00:00Z",
+        "end": "2025-11-16T23:59:59Z",
+        "date": "2025-11-16",
+        "text": "Sun Nov 16th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-17T00:00:00Z",
+        "end": "2025-11-17T23:59:59Z",
+        "date": "2025-11-17",
+        "text": "Mon Nov 17th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 5,
+        "minutes": 37,
+        "total_seconds": 20241.607,
+        "digital": "5:37",
+        "decimal": "5.62",
+        "text": "5 hrs 37 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 172,
+        "human_deletions": 104
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-18T00:00:00Z",
+        "end": "2025-11-18T23:59:59Z",
+        "date": "2025-11-18",
+        "text": "Tue Nov 18th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 5,
+        "total_seconds": 308.774,
+        "digital": "0:05",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 9,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-19T00:00:00Z",
+        "end": "2025-11-19T23:59:59Z",
+        "date": "2025-11-19",
+        "text": "Wed Nov 19th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 53,
+        "total_seconds": 6802.253,
+        "digital": "1:53",
+        "decimal": "1.88",
+        "text": "1 hr 53 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 101,
+        "human_deletions": 14
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-20T00:00:00Z",
+        "end": "2025-11-20T23:59:59Z",
+        "date": "2025-11-20",
+        "text": "Thu Nov 20th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 36,
+        "total_seconds": 2214.635,
+        "digital": "0:36",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 12,
+        "human_deletions": 2
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-21T00:00:00Z",
+        "end": "2025-11-21T23:59:59Z",
+        "date": "2025-11-21",
+        "text": "Fri Nov 21st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 5,
+        "minutes": 15,
+        "total_seconds": 18950.66,
+        "digital": "5:15",
+        "decimal": "5.25",
+        "text": "5 hrs 15 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 238,
+        "human_deletions": 164
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-22T00:00:00Z",
+        "end": "2025-11-22T23:59:59Z",
+        "date": "2025-11-22",
+        "text": "Sat Nov 22nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-23T00:00:00Z",
+        "end": "2025-11-23T23:59:59Z",
+        "date": "2025-11-23",
+        "text": "Sun Nov 23rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-24T00:00:00Z",
+        "end": "2025-11-24T23:59:59Z",
+        "date": "2025-11-24",
+        "text": "Mon Nov 24th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-25T00:00:00Z",
+        "end": "2025-11-25T23:59:59Z",
+        "date": "2025-11-25",
+        "text": "Tue Nov 25th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 29.056,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 1,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-26T00:00:00Z",
+        "end": "2025-11-26T23:59:59Z",
+        "date": "2025-11-26",
+        "text": "Wed Nov 26th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 1,
+        "minutes": 2,
+        "total_seconds": 3768.016,
+        "digital": "1:02",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 5,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-27T00:00:00Z",
+        "end": "2025-11-27T23:59:59Z",
+        "date": "2025-11-27",
+        "text": "Thu Nov 27th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-28T00:00:00Z",
+        "end": "2025-11-28T23:59:59Z",
+        "date": "2025-11-28",
+        "text": "Fri Nov 28th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-29T00:00:00Z",
+        "end": "2025-11-29T23:59:59Z",
+        "date": "2025-11-29",
+        "text": "Sat Nov 29th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-11-30T00:00:00Z",
+        "end": "2025-11-30T23:59:59Z",
+        "date": "2025-11-30",
+        "text": "Sun Nov 30th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-01T00:00:00Z",
+        "end": "2025-12-01T23:59:59Z",
+        "date": "2025-12-01",
+        "text": "Mon Dec 1st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-02T00:00:00Z",
+        "end": "2025-12-02T23:59:59Z",
+        "date": "2025-12-02",
+        "text": "Tue Dec 2nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-03T00:00:00Z",
+        "end": "2025-12-03T23:59:59Z",
+        "date": "2025-12-03",
+        "text": "Wed Dec 3rd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-04T00:00:00Z",
+        "end": "2025-12-04T23:59:59Z",
+        "date": "2025-12-04",
+        "text": "Thu Dec 4th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-05T00:00:00Z",
+        "end": "2025-12-05T23:59:59Z",
+        "date": "2025-12-05",
+        "text": "Fri Dec 5th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-06T00:00:00Z",
+        "end": "2025-12-06T23:59:59Z",
+        "date": "2025-12-06",
+        "text": "Sat Dec 6th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-07T00:00:00Z",
+        "end": "2025-12-07T23:59:59Z",
+        "date": "2025-12-07",
+        "text": "Sun Dec 7th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-08T00:00:00Z",
+        "end": "2025-12-08T23:59:59Z",
+        "date": "2025-12-08",
+        "text": "Mon Dec 8th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-09T00:00:00Z",
+        "end": "2025-12-09T23:59:59Z",
+        "date": "2025-12-09",
+        "text": "Tue Dec 9th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-10T00:00:00Z",
+        "end": "2025-12-10T23:59:59Z",
+        "date": "2025-12-10",
+        "text": "Wed Dec 10th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-11T00:00:00Z",
+        "end": "2025-12-11T23:59:59Z",
+        "date": "2025-12-11",
+        "text": "Thu Dec 11th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 47,
+        "total_seconds": 2852.268,
+        "digital": "0:47",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 223,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-12T00:00:00Z",
+        "end": "2025-12-12T23:59:59Z",
+        "date": "2025-12-12",
+        "text": "Fri Dec 12th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-13T00:00:00Z",
+        "end": "2025-12-13T23:59:59Z",
+        "date": "2025-12-13",
+        "text": "Sat Dec 13th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-14T00:00:00Z",
+        "end": "2025-12-14T23:59:59Z",
+        "date": "2025-12-14",
+        "text": "Sun Dec 14th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-15T00:00:00Z",
+        "end": "2025-12-15T23:59:59Z",
+        "date": "2025-12-15",
+        "text": "Mon Dec 15th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 2,
+        "total_seconds": 143.414,
+        "digital": "0:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-16T00:00:00Z",
+        "end": "2025-12-16T23:59:59Z",
+        "date": "2025-12-16",
+        "text": "Tue Dec 16th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-17T00:00:00Z",
+        "end": "2025-12-17T23:59:59Z",
+        "date": "2025-12-17",
+        "text": "Wed Dec 17th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 3,
+        "total_seconds": 222.986,
+        "digital": "0:03",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-18T00:00:00Z",
+        "end": "2025-12-18T23:59:59Z",
+        "date": "2025-12-18",
+        "text": "Thu Dec 18th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 56,
+        "total_seconds": 3383.829,
+        "digital": "0:56",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 2,
+        "human_deletions": 89
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-19T00:00:00Z",
+        "end": "2025-12-19T23:59:59Z",
+        "date": "2025-12-19",
+        "text": "Fri Dec 19th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 46,
+        "total_seconds": 2795.823,
+        "digital": "0:46",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 16,
+        "human_deletions": 2
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-20T00:00:00Z",
+        "end": "2025-12-20T23:59:59Z",
+        "date": "2025-12-20",
+        "text": "Sat Dec 20th 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-21T00:00:00Z",
+        "end": "2025-12-21T23:59:59Z",
+        "date": "2025-12-21",
+        "text": "Sun Dec 21st 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 0,
+        "minutes": 0,
+        "total_seconds": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0
+      }
+    },
+    {
+      "range": {
+        "start": "2025-12-22T00:00:00Z",
+        "end": "2025-12-22T23:59:59Z",
+        "date": "2025-12-22",
+        "text": "Mon Dec 22nd 2025",
+        "timezone": "Europe/Lisbon"
+      },
+      "grand_total": {
+        "hours": 2,
+        "minutes": 31,
+        "total_seconds": 9112.858,
+        "digital": "2:31",
+        "decimal": "2.52",
+        "text": "2 hrs 31 mins",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 135,
+        "human_deletions": 40
+      }
+    }
+  ]
+}
