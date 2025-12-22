@@ -27,68 +27,36 @@
 //
 
 import { useEffect, useState } from "react";
-import { WakaTimeConfig } from "../interfaces/sanitized-config";
+import axios from "axios";
 
-interface Language {
-  name: string;
-  percent: number;
-}
-
-interface WakaTimeResponse {
-  data: {
-    human_readable_total: string;
-    languages: Language[];
+interface WakaTimeStatsProps {
+  wakatime?: {
+    wkstatsUrl: string;
   };
 }
 
-const WakaTimeStats = ({ wakatime }: { wakatime?: WakaTimeConfig }) => {
-  const [data, setData] = useState<WakaTimeResponse | null>(null);
+const WakaTimeStats = ({ wakatime }: WakaTimeStatsProps) => {
+  const [stats, setStats] = useState<any>(null);
 
   useEffect(() => {
-    if (!wakatime) return;
+    if (!wakatime?.wkstatsUrl) return;
 
-    fetch(wakatime.statsUrl)
-      .then((res) => res.json())
-      .then(setData)
-      .catch(console.error);
+    axios
+      .get(wakatime.wkstatsUrl)
+      .then((res) => setStats(res.data))
+      .catch((err) => console.error("Failed to load WakaTime stats:", err));
   }, [wakatime]);
 
-  if (!wakatime || !data) return null;
+  if (!stats) return <div>Loading WakaTime stats...</div>;
+
+  const latestDay = stats.data[stats.data.length - 1];
+  const totalTime = latestDay?.grand_total?.digital || "0:00";
 
   return (
-    <section className="card bg-base-100 shadow-sm">
-      <div className="card-body">
-        <h2 className="card-title">
-          WakaTime · Coding Activity ({wakatime.year})
-        </h2>
-
-        <p className="text-base-content/80">
-          Total coding time:{" "}
-          <strong>{data.data.human_readable_total}</strong>
-        </p>
-
-        <ul className="mt-2 space-y-2">
-          {data.data.languages.slice(0, 5).map((lang) => (
-            <li
-              key={lang.name}
-              className="flex justify-between bg-base-200 rounded px-3 py-2"
-            >
-              <span>{lang.name}</span>
-              <span>{lang.percent.toFixed(1)}%</span>
-            </li>
-          ))}
-        </ul>
-
-        <a
-          href={wakatime.reportUrl}
-          target="_blank"
-          rel="noreferrer"
-          className="mt-3 text-primary"
-        >
-          View full {wakatime.year} report →
-        </a>
-      </div>
-    </section>
+    <div className="waka-time-stats p-4 bg-base-200 rounded-lg shadow-md mb-4">
+      <h2 className="text-xl font-bold">WakaTime Stats</h2>
+      <p>Latest coding time: {totalTime}</p>
+    </div>
   );
 };
 
