@@ -26,92 +26,48 @@
 // along with this program. If not, see <https://www.gnu.org/licenses/>.
 //
 
-import { useEffect, useState } from 'react';
-import axios from 'axios';
-
-interface WakaTimeConfig {
-  year: number;
-  statsUrl: string;
-  reportUrl?: string;
-}
-
-interface WakaTimeStatsProps {
-  wakatime?: WakaTimeConfig;
-}
+import { useEffect, useState } from "react";
 
 interface WakaTimeData {
   data: {
-    grand_total: {
-      total_seconds: number;
-      human_readable_total: string;
-    };
-    languages: Array<{
+    total_seconds: number;
+    languages: {
       name: string;
       percent: number;
-      text: string;
-    }>;
+    }[];
   };
 }
 
-const WakaTimeStats = ({ wakatime }: WakaTimeStatsProps) => {
+const WakaTimeStats = () => {
   const [stats, setStats] = useState<WakaTimeData | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-
-  // ✅ HARD GUARANTEE FOR TS + RUNTIME
-  if (!wakatime) {
-    return null;
-  }
+  const [error, setError] = useState(false);
 
   useEffect(() => {
-    const fetchStats = async () => {
-      try {
-        const response = await axios.get<WakaTimeData>(wakatime.statsUrl);
-        setStats(response.data);
-      } catch (err) {
-        console.error(err);
-        setError('Failed to load WakaTime stats.');
-      } finally {
-        setLoading(false);
-      }
-    };
+    fetch("/wakatime.json")
+      .then((res) => {
+        if (!res.ok) throw new Error("Failed to load wakatime.json");
+        return res.json();
+      })
+      .then(setStats)
+      .catch(() => setError(true));
+  }, []);
 
-    fetchStats();
-  }, [wakatime.statsUrl]);
-
-  if (loading) return <div>Loading WakaTime stats...</div>;
-  if (error) return <div>{error}</div>;
-  if (!stats) return null;
+  if (error) return null;
+  if (!stats) return <div>Loading WakaTime stats...</div>;
 
   return (
-    <div className="card bg-base-100 shadow-sm p-4">
-      <h2 className="text-xl font-bold mb-2">
-        WakaTime Stats ({wakatime.year})
-      </h2>
+    <div className="card bg-base-100 shadow-sm">
+      <div className="card-body">
+        <h2 className="card-title">WakaTime (Last Year)</h2>
 
-      <p>
-        Total coding time:{' '}
-        <strong>{stats.data.grand_total.human_readable_total}</strong>
-      </p>
-
-      <ul className="mt-2">
-        {stats.data.languages.slice(0, 5).map((lang) => (
-          <li key={lang.name}>
-            {lang.name}: {lang.text} ({lang.percent.toFixed(1)}%)
-          </li>
-        ))}
-      </ul>
-
-      {wakatime.reportUrl && (
-        <a
-          href={wakatime.reportUrl}
-          target="_blank"
-          rel="noreferrer"
-          className="link link-primary mt-2 inline-block"
-        >
-          View full report →
-        </a>
-      )}
+        <ul className="space-y-1">
+          {stats.data.languages.map((lang) => (
+            <li key={lang.name}>
+              {lang.name}: {lang.percent.toFixed(1)}%
+            </li>
+          ))}
+        </ul>
+      </div>
     </div>
   );
 };
