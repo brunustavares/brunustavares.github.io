@@ -28,7 +28,7 @@ import ExternalProjectCard from './external-project-card';
 import BlogCard from './blog-card';
 import Footer from './footer';
 import PublicationCard from './publication-card';
-// import WakaTimeStats from "./WakaTimeStats";
+import WakaTimeStats from "./WakaTimeStats";
 
 /**
  * Renders the GitProfile component.
@@ -189,7 +189,6 @@ const GitProfile = ({ config }: { config: Config }) => {
       ) : (
         <>
           <div className={`p-4 lg:p-10 min-h-full ${BG_COLOR}`}>
-            {/* <WakaTimeStats wakatime={sanitizedConfig.wakatime} /> */}
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 rounded-box">
               <div className="col-span-1">
                 <div className="grid grid-cols-1 gap-6">
@@ -241,6 +240,9 @@ const GitProfile = ({ config }: { config: Config }) => {
               </div>
               <div className="lg:col-span-2 col-span-1">
                 <div className="grid grid-cols-1 gap-6">
+                  {sanitizedConfig.wakatime && (
+                    <WakaTimeStats wakatime={sanitizedConfig.wakatime} />
+                  )}
                   {sanitizedConfig.projects.github.display && (
                     <GithubProjectCard
                       header={sanitizedConfig.projects.github.header}
