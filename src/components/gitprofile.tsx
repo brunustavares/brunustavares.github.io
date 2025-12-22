@@ -28,6 +28,7 @@ import ExternalProjectCard from './external-project-card';
 import BlogCard from './blog-card';
 import Footer from './footer';
 import PublicationCard from './publication-card';
+import WakaTimeStats from "./WakaTimeStats";
 
 /**
  * Renders the GitProfile component.
