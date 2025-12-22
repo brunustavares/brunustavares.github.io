@@ -278,6 +278,16 @@ const CONFIG = {
     ],
   },
 
+  // Optional WakaTime Stats
+  wakatime: {
+    wkyear: new Date().getFullYear() - 1,
+
+    wkstatsUrl:
+      "https://wakatime.com/share/@brunustavares/ebe5789f-f45c-4d07-b185-9801c4b8f5cc.json",
+    wkreportUrl:
+      "https://wakatime.com/a-look-back-at-2024/ebe5789f-f45c-4d07-b185-9801c4b8f5cc/vxdenlzcqc",
+  },
+
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
       class="text-primary" href="https://github.com/arifszn/gitprofile"
