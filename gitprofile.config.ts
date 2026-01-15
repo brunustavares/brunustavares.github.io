@@ -167,7 +167,7 @@ const CONFIG = {
     'CSS',
   ],
   WakaTimeStats: {
-    enabled: true,
+    enabled: false,
     year: "2025",
     URLs: {
         coding_activity: "https://wakatime.com/share/@brunus/c04f2934-946d-406f-b281-91c2913fa8cb.svg",
