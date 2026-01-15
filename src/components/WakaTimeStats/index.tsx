@@ -32,21 +32,21 @@ export default function WakaTimeStats() {
   if (!CONFIG.WakaTimeStats?.enabled) return null;
 
   return (
-    <section id="wakatime-stats" style={{ marginBottom: "3rem" }}>
-      <h2>Last Year Coding in Review</h2>
+      <section id="wakatime-stats" style={{ marginBottom: "3rem" }}>
+          <h2>{CONFIG.WakaTimeStats?.year} coding in review</h2>
 
-      <iframe
-        src={CONFIG.WakaTimeStats.URLs?.coding_activity}
-        src={CONFIG.WakaTimeStats.URLs?.languages}
-        width="100%"
-        height="800"
-        style={{
-          border: "none",
-          borderRadius: "8px",
-          overflow: "hidden"
-        }}
-        loading="lazy"
-      />
+          <iframe
+              src={CONFIG.WakaTimeStats.URLs?.coding_activity}
+              style="flex:1; border:none;">
+
+          </iframe>
+          
+          <iframe
+              src={CONFIG.WakaTimeStats.URLs?.languages}
+              style="flex:1; border:none;">
+
+          </iframe>
+
     </section>
   );
 }
