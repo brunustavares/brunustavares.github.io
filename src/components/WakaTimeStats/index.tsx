@@ -37,15 +37,13 @@ export default function WakaTimeStats() {
 
           <iframe
               src={CONFIG.WakaTimeStats.URLs?.coding_activity}
-              style="flex:1; border:none;">
+              style={{ flex: 1, border: "none" }}
+          />
 
-          </iframe>
-          
           <iframe
               src={CONFIG.WakaTimeStats.URLs?.languages}
-              style="flex:1; border:none;">
-
-          </iframe>
+              style={{ flex: 1, border: "none" }}
+          />
 
     </section>
   );
