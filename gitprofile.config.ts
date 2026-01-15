@@ -170,7 +170,7 @@ const CONFIG = {
     enabled: true,
     year: "2025",
     URLs: {
-        coding_activity: "https://wakatime.com/share/@brunus/9f0bcf98-8ab0-4b54-9bf0-f3402e1bf766.svg",
+        coding_activity: "https://wakatime.com/share/@brunus/689d2a50-24c3-4f9f-9524-8797a8c64211.svg",
         languages: "https://wakatime.com/share/@brunus/63bc7d05-a6c7-4315-86c8-c7e3859d6e0f.svg"
     }
   },

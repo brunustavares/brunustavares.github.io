@@ -38,12 +38,12 @@ export default function WakaTimeStats() {
       <div style={{ display: "flex", gap: "1rem" }}>
         <iframe
           src={CONFIG.WakaTimeStats.URLs?.coding_activity}
-          style={{ flex: 1, height: "700px", border: "none" }}
+          style={{ flex: 1, height: "100%", border: "none" }}
         />
 
         <iframe
           src={CONFIG.WakaTimeStats.URLs?.languages}
-          style={{ flex: 1, height: "700px", border: "none" }}
+          style={{ flex: 1, height: "100%", border: "none" }}
         />
       </div>
     </section>
