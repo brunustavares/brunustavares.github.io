@@ -166,7 +166,7 @@ const CONFIG = {
     'JavaScript',
     'CSS',
   ],
-  WakaTimeStats: {
+  wakaTimeStats: {
     enabled: true,
     url: "https://wakatime.com/a-look-back-at-2025/ebe5789f-f45c-4d07-b185-9801c4b8f5cc/lrjgrwxadx"
   },

@@ -208,6 +208,11 @@ interface Social {
   discord?: string;
 }
 
+interface WakaTimeStats {
+  enabled?: boolean;
+  url?: string;
+}
+
 interface Resume {
   /**
    * Resume file url
@@ -309,11 +314,6 @@ interface ThemeConfig {
    * Available themes
    */
   themes?: Array<string>;
-}
-
-interface WakaTimeStats {
-  enabled?: boolean;
-  url?: string;
 }
 
 interface Config {
