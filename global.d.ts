@@ -311,6 +311,11 @@ interface ThemeConfig {
   themes?: Array<string>;
 }
 
+interface WakaTimeStats {
+  enabled?: boolean;
+  url?: string;
+}
+
 interface Config {
   /**
    * GitHub config
@@ -341,6 +346,11 @@ interface Config {
    * Skill list
    */
   skills?: Array<string>;
+
+  /**
+   * WakaTime statistics config
+   */
+  WakaTimeStats?: WakaTimeStats;
 
   /**
    * Experience list
