@@ -210,7 +210,10 @@ interface Social {
 
 interface WakaTimeStats {
   enabled?: boolean;
-  url?: string;
+  URLs?: {
+    coding_activity?: string;
+    languages?: string;
+  };
 }
 
 interface Resume {

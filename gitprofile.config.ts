@@ -168,7 +168,10 @@ const CONFIG = {
   ],
   WakaTimeStats: {
     enabled: true,
-    url: "https://wakatime.com/share/@brunus/4a77b585-26cb-42af-a84b-c24f358478b8.png"
+    URLs: {
+        coding_activity: "https://wakatime.com/share/@brunus/9f0bcf98-8ab0-4b54-9bf0-f3402e1bf766.svg",
+        languages: "https://wakatime.com/share/@brunus/63bc7d05-a6c7-4315-86c8-c7e3859d6e0f.svg"
+    }
   },
   experiences: [
     /** {

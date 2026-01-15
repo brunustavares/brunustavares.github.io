@@ -33,10 +33,11 @@ export default function WakaTimeStats() {
 
   return (
     <section id="wakatime-stats" style={{ marginBottom: "3rem" }}>
-      <h2>My Coding Year in Review</h2>
+      <h2>Last Year Coding in Review</h2>
 
       <iframe
-        src={CONFIG.WakaTimeStats.url}
+        src={CONFIG.WakaTimeStats.URLs?.coding_activity}
+        src={CONFIG.WakaTimeStats.URLs?.languages}
         width="100%"
         height="800"
         style={{
