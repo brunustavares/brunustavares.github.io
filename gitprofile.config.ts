@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/',
   projects: {
     github: {
-      display: true, // Display GitHub projects?
+      display: false, // Display GitHub projects?
       header: 'GitHub',
       mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -26,103 +26,104 @@ const CONFIG = {
       manual: {
         // Properties for manually specifying projects
         projects: [
-            'brunustavares/wiser_Py',
-            'brunustavares/wiser_Py/blob/main/wiseflow/Sentinel_F.md',
-            'brunustavares/Sebenta',
-            'brunustavares/DB_sync',
-            'brunustavares/val_Py',
-            'brunustavares/Absentia',
-            'brunustavares/GesTurmas',
-            'brunustavares/AIDA',
-            'brunustavares/LLM_RAG',
-            'brunustavares/prov_E2',
+            // 'brunustavares/wiser_Py',
+            // 'brunustavares/wiser_Py/blob/main/wiseflow/Sentinel_F.md',
+            // 'brunustavares/Sebenta',
+            // 'brunustavares/DB_sync',
+            // 'brunustavares/val_Py',
+            // 'brunustavares/Absentia',
+            // 'brunustavares/GesTurmas',
+            // 'brunustavares/AIDA',
+            // 'brunustavares/LLM_RAG',
+            // 'brunustavares/prov_E2',
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
-      header: 'My Projects',
+    //   header: 'My Projects',
+      header: 'GitHub',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        // {
-        //   title: 'wiser.Py',
-        //   description:
-        //     'Python app for integrated data and indicators management related to the tests carried out in WISEflow and Moodle.',
-        //   imageUrl:
-        //     'https://raw.githubusercontent.com/brunustavares/wiser_Py/main/static/img/logo.jpg',
-        //   link: 'https://github.com/brunustavares/wiser_Py',
-        // },
-        // {
-        //   title: 'Sentinel_F',
-        //   description:
-        //     'PHP script designed to monitor student behavior within the WISEflow platform.',
-        //   imageUrl:
-        //     'https://raw.githubusercontent.com/brunustavares/wiser_Py/main/static/img/Sentinel_F.jpg',
-        //   link: 'https://github.com/brunustavares/wiser_Py/blob/main/wiseflow/Sentinel_F.md',
-        // },
-        // {
-        //   title: 'Sebenta',
-        //   description:
-        //     'Moodle block for grades synchronization with WISEflow (teachers’ function) and integrated grades and submission statements (students’ function).',
-        //   imageUrl:
-        //     'https://raw.githubusercontent.com/brunustavares/Sebenta/main/pix/logo.png',
-        //   link: 'https://github.com/brunustavares/Sebenta',
-        // },
-        // {
-        //   title: '_DBsync_',
-        //   description:
-        //     'PHP app for synchronization of registrations and grades, between Moodle and WISEflow databases (MySQL) and academic management system (Oracle).',
-        //   imageUrl:
-        //     'https://raw.githubusercontent.com/brunustavares/DB_sync/main/logo_DBsync_.png',
-        //   link: 'https://github.com/brunustavares/DB_sync',
-        // },
-        // {
-        //   title: 'val.Py',
-        //   description:
-        //     'Python bot, combined with a Moodle block, to support courses’ structure validation, using various approaches, between web scraping and direct access to the database.',
-        //   imageUrl:
-        //     'https://raw.githubusercontent.com/brunustavares/val_Py/main/pix/_d6566782-1609-49d4-ab85-789322da7399.jpg',
-        //   link: 'https://github.com/brunustavares/val_Py',
-        // },
-        // {
-        //   title: 'Absentia',
-        //   description:
-        //     'Moodle block to identify dropout-risk students and provide additional contact info, via web service connected to the academic management system.',
-        //   imageUrl:
-        //     'https://raw.githubusercontent.com/brunustavares/Absentia/main/img/absentia.png',
-        //   link: 'https://github.com/brunustavares/Absentia',
-        // },
-        // {
-        //   title: 'GesTurmas',
-        //   description:
-        //     'Moodle block for students’ distribution by the respective classes, registering them in the intermediate database (BDInt), compiling the information from the academic management system and Moodle.',
-        //   imageUrl:
-        //     'https://raw.githubusercontent.com/brunustavares/GesTurmas/main/moodle_block/gesturmas/pix/gesturmas_nome.png',
-        //   link: 'https://github.com/brunustavares/GesTurmas',
-        // },
-        // {
-        //   title: 'AIDA',
-        //   description:
-        //     'Moodle webservices for data loading',
-        //   imageUrl:
-        //     'https://raw.githubusercontent.com/brunustavares/AIDA/main/pix/logo.jpg',
-        //   link: 'https://github.com/brunustavares/AIDA',
-        // },
-        // {
-        //   title: 'LLM_RAG',
-        //   description:
-        //     'Moodle webservices for LLM data loading',
-        //   imageUrl:
-        //     'https://raw.githubusercontent.com/brunustavares/LLM_RAG/main/pix/logo.jpg',
-        //   link: 'https://github.com/brunustavares/LLM_RAG',
-        // },
-        // {
-        //   title: 'prov_E2',
-        //   description:
-        //     'Moodle block for electronic written exams management.',
-        //   imageUrl:
-        //     'https://raw.githubusercontent.com/brunustavares/prov_E2/main/pix/logo_prov_E2.png',
-        //   link: 'https://github.com/brunustavares/prov_E2',
-        // },
+        {
+          title: 'wiser.Py',
+          description:
+            'Python app for integrated data and indicators management related to the tests carried out in WISEflow and Moodle.',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/wiser_Py/main/static/img/logo.jpg',
+          link: 'https://github.com/brunustavares/wiser_Py',
+        },
+        {
+          title: 'Sentinel_F',
+          description:
+            'PHP script designed to monitor student behavior within the WISEflow platform.',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/wiser_Py/main/static/img/Sentinel_F.jpg',
+          link: 'https://github.com/brunustavares/wiser_Py/blob/main/wiseflow/Sentinel_F.md',
+        },
+        {
+          title: 'Sebenta',
+          description:
+            'Moodle block for grades synchronization with WISEflow (teachers’ function) and integrated grades and submission statements (students’ function).',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/Sebenta/main/pix/logo.png',
+          link: 'https://github.com/brunustavares/Sebenta',
+        },
+        {
+          title: '_DBsync_',
+          description:
+            'PHP app for synchronization of registrations and grades, between Moodle and WISEflow databases (MySQL) and academic management system (Oracle).',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/DB_sync/main/logo_DBsync_.png',
+          link: 'https://github.com/brunustavares/DB_sync',
+        },
+        {
+          title: 'val.Py',
+          description:
+            'Python bot, combined with a Moodle block, to support courses’ structure validation, using various approaches, between web scraping and direct access to the database.',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/val_Py/main/pix/_d6566782-1609-49d4-ab85-789322da7399.jpg',
+          link: 'https://github.com/brunustavares/val_Py',
+        },
+        {
+          title: 'Absentia',
+          description:
+            'Moodle block to identify dropout-risk students and provide additional contact info, via web service connected to the academic management system.',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/Absentia/main/img/absentia.png',
+          link: 'https://github.com/brunustavares/Absentia',
+        },
+        {
+          title: 'GesTurmas',
+          description:
+            'Moodle block for students’ distribution by the respective classes, registering them in the intermediate database (BDInt), compiling the information from the academic management system and Moodle.',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/GesTurmas/main/moodle_block/gesturmas/pix/gesturmas_nome.png',
+          link: 'https://github.com/brunustavares/GesTurmas',
+        },
+        {
+          title: 'AIDA',
+          description:
+            'Moodle webservices for data loading',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/AIDA/main/pix/logo.jpg',
+          link: 'https://github.com/brunustavares/AIDA',
+        },
+        {
+          title: 'LLM_RAG',
+          description:
+            'Moodle webservices for LLM data loading',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/LLM_RAG/main/pix/logo.jpg',
+          link: 'https://github.com/brunustavares/LLM_RAG',
+        },
+        {
+          title: 'prov_E2',
+          description:
+            'Moodle block for electronic written exams management.',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/prov_E2/main/pix/logo_prov_E2.png',
+          link: 'https://github.com/brunustavares/prov_E2',
+        },
       ],
     },
   },
