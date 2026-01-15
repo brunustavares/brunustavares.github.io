@@ -25,3 +25,28 @@
 // You should have received a copy of the GNU General Public License
 // along with this program. If not, see <https://www.gnu.org/licenses/>.
 //
+
+import React from "react";
+import config from "../../gitprofile.config";
+
+export default function WakaTimeStats() {
+  if (!config.WakaTimeStats?.enabled) return null;
+
+  return (
+    <section id="wakatime-stats" style={{ marginBottom: "3rem" }}>
+      <h2>My Coding Year in Review</h2>
+
+      <iframe
+        src={config.WakaTimeStats.url}
+        width="100%"
+        height="800"
+        style={{
+          border: "none",
+          borderRadius: "8px",
+          overflow: "hidden"
+        }}
+        loading="lazy"
+      />
+    </section>
+  );
+}

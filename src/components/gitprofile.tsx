@@ -25,6 +25,7 @@ import CertificationCard from './certification-card';
 import { GithubProject } from '../interfaces/github-project';
 import GithubProjectCard from './github-project-card';
 import ExternalProjectCard from './external-project-card';
+import WakaTimeStats from "./WakaTimeStats";
 import BlogCard from './blog-card';
 import Footer from './footer';
 import PublicationCard from './publication-card';
@@ -254,6 +255,7 @@ const GitProfile = ({ config }: { config: Config }) => {
                       publications={sanitizedConfig.publications}
                     />
                   )}
+                  <WakaTimeStats />
                   {sanitizedConfig.projects.external.projects.length !== 0 && (
                     <ExternalProjectCard
                       loading={loading}
