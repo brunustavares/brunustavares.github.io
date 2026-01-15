@@ -32,19 +32,20 @@ export default function WakaTimeStats() {
   if (!CONFIG.WakaTimeStats?.enabled) return null;
 
   return (
-      <section id="wakatime-stats" style={{ marginBottom: "3rem" }}>
-          <h2>{CONFIG.WakaTimeStats?.year} coding in review</h2>
+    <section id="wakatime-stats" style={{ marginBottom: "3rem" }}>
+      <h2>{CONFIG.WakaTimeStats?.year} coding in review</h2>
 
-          <iframe
-              src={CONFIG.WakaTimeStats.URLs?.coding_activity}
-            //   style={{ flex: 1, border: "none" }}
-          />
+      <div style={{ display: "flex", gap: "1rem" }}>
+        <iframe
+          src={CONFIG.WakaTimeStats.URLs?.coding_activity}
+          style={{ flex: 1, height: "700px", border: "none" }}
+        />
 
-          <iframe
-              src={CONFIG.WakaTimeStats.URLs?.languages}
-            //   style={{ flex: 1, border: "none" }}
-          />
-
+        <iframe
+          src={CONFIG.WakaTimeStats.URLs?.languages}
+          style={{ flex: 1, height: "700px", border: "none" }}
+        />
+      </div>
     </section>
   );
 }
