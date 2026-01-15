@@ -65,11 +65,6 @@ export interface SanitizedSocial {
   discord?: string;
 }
 
-export interface SanitizedWakaTimeStats {
-  enabled?: boolean;
-  url?: string;
-}
-
 export interface SanitizedResume {
   fileUrl?: string;
 }

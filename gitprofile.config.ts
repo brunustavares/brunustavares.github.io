@@ -168,7 +168,7 @@ const CONFIG = {
   ],
   WakaTimeStats: {
     enabled: true,
-    url: "https://wakatime.com/a-look-back-at-2025/ebe5789f-f45c-4d07-b185-9801c4b8f5cc/lrjgrwxadx"
+    url: "https://wakatime.com/share/@brunus/4a77b585-26cb-42af-a84b-c24f358478b8.png"
   },
   experiences: [
     /** {
