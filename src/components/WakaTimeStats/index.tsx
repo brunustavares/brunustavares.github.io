@@ -35,15 +35,15 @@ export default function WakaTimeStats() {
     <section id="wakatime-stats" style={{ marginBottom: "3rem" }}>
       <h2>{CONFIG.WakaTimeStats?.year} coding in review</h2>
 
-      <div style={{ display: "flex", gap: "1rem" }}>
+      <div style={{ display: "table", width: "100%" }}>
         <iframe
           src={CONFIG.WakaTimeStats.URLs?.coding_activity}
-          style={{ flex: 1, height: "100%", border: "none" }}
+          style={{ width: "100%", border: "none" }}
         />
 
         <iframe
           src={CONFIG.WakaTimeStats.URLs?.languages}
-          style={{ flex: 1, height: "100%", border: "none" }}
+          style={{ height: "50vh", width: "100%", border: "none" }}
         />
       </div>
     </section>
