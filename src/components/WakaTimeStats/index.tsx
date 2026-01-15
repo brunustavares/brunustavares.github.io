@@ -27,7 +27,7 @@
 //
 
 import React from "react";
-import config from "../../gitprofile.config";
+import config from "../../../gitprofile.config";
 
 export default function WakaTimeStats() {
   if (!config.WakaTimeStats?.enabled) return null;
