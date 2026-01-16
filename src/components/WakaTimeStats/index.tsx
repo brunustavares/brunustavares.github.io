@@ -29,32 +29,30 @@
 // import React from "react";
 
 export default function WakaTimeStats() {
-  if (!CONFIG.WakaTimeStats?.enabled) return null;
+    if (!CONFIG.WakaTimeStats?.enabled) return null;
 
-  return (
-    <section id="wakatime-stats" style={{ marginBottom: "3rem" }}>
-      <h2>{CONFIG.WakaTimeStats?.year} coding in review</h2>
-
-      <a
-        href={CONFIG.WakaTimeStats.URLs?.full_stats}
-        target="_blank"
-        rel="noopener noreferrer"
-        style={{ display: "block", textDecoration: "none" }}
-      >
-        <div style={{ display: "table", width: "100%", cursor: "pointer" }}>
-          <iframe
-            src={CONFIG.WakaTimeStats.URLs?.coding_activity}
-            style={{ width: "100%", border: "none" }}
-            title="WakaTime Coding Activity"
-          />
-
-          <iframe
-            src={CONFIG.WakaTimeStats.URLs?.languages}
-            style={{ height: "50vh", width: "100%", border: "none" }}
-            title="WakaTime Languages"
-          />
-        </div>
-      </a>
-    </section>
-  );
+    return (
+        <section id="wakatime-stats" style={{ marginBottom: "3rem" }}>
+            <a href={CONFIG.WakaTimeStats.URLs?.full_stats}
+               target="_blank"
+               rel="noopener noreferrer"
+               style={{ display: "block", textDecoration: "none" }}
+            >
+                <h2>{CONFIG.WakaTimeStats?.year} coding in review</h2>
+            </a>
+            
+            <div style={{ display: "table", width: "100%", cursor: "pointer" }}>
+                <iframe src={CONFIG.WakaTimeStats.URLs?.coding_activity}
+                        style={{ width: "100%", border: "none" }}
+                        title="WakaTime Coding Activity"
+                />
+                
+                <iframe src={CONFIG.WakaTimeStats.URLs?.languages}
+                        style={{ height: "50vh", width: "100%", border: "none" }}
+                        title="WakaTime Languages"
+                />
+                
+            </div>
+        </section>
+    );
 }
