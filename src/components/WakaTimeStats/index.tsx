@@ -44,7 +44,6 @@ export default function WakaTimeStats() {
                 </a>
             </h2>
 
-            {/* Rounded container */}
             <div
                 style={{
                     maxWidth: "1200px",
@@ -52,27 +51,31 @@ export default function WakaTimeStats() {
                     borderRadius: "16px",
                     overflow: "hidden",
                     boxShadow: "0 6px 18px rgba(0,0,0,0.08)",
-                    background: "#fff",
+                    background: "transparent",
                 }}
             >
-                {/* Responsive grid */}
                 <div
                     style={{
                         display: "grid",
-                        gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",
                         gap: "1rem",
                         padding: "1rem",
                     }}
                 >
-                    <iframe
-                        src={CONFIG.WakaTimeStats.URLs?.coding_activity}
-                        style={{ width: "100%", height: "400px", border: "none" }}
-                        title="WakaTime Coding Activity"
-                    />
+                    <img
+    src={CONFIG.WakaTimeStats.URLs?.coding_activity}
+    alt="WakaTime Coding Activity"
+    style={{
+        display: "block",
+        width: "100%",
+        maxWidth: "100%",
+        height: "auto",
+        margin: "0 auto",
+    }}
+/>
 
                     <iframe
                         src={CONFIG.WakaTimeStats.URLs?.languages}
-                        style={{ width: "100%", height: "400px", border: "none" }}
+                        style={{ width: "100%", border: "none" }}
                         title="WakaTime Languages"
                     />
                 </div>
