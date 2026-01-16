@@ -33,25 +33,49 @@ export default function WakaTimeStats() {
 
     return (
         <section id="wakatime-stats" style={{ marginBottom: "3rem" }}>
-            <a href={CONFIG.WakaTimeStats.URLs?.full_stats}
-               target="_blank"
-               rel="noopener noreferrer"
-               style={{ display: "block", textDecoration: "none" }}
+            <h2 style={{ textAlign: "center" }}>
+                <a
+                    href={CONFIG.WakaTimeStats.URLs?.full_stats}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ textDecoration: "none" }}
+                >
+                    {CONFIG.WakaTimeStats?.year} coding in review
+                </a>
+            </h2>
+
+            {/* Rounded container */}
+            <div
+                style={{
+                    maxWidth: "1200px",
+                    margin: "0 auto",
+                    borderRadius: "16px",
+                    overflow: "hidden",
+                    boxShadow: "0 6px 18px rgba(0,0,0,0.08)",
+                    background: "#fff",
+                }}
             >
-                <h2>{CONFIG.WakaTimeStats?.year} coding in review</h2>
-            </a>
-            
-            <div style={{ display: "table", width: "100%", cursor: "pointer" }}>
-                <iframe src={CONFIG.WakaTimeStats.URLs?.coding_activity}
-                        style={{ width: "100%", border: "none" }}
+                {/* Responsive grid */}
+                <div
+                    style={{
+                        display: "grid",
+                        gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",
+                        gap: "1rem",
+                        padding: "1rem",
+                    }}
+                >
+                    <iframe
+                        src={CONFIG.WakaTimeStats.URLs?.coding_activity}
+                        style={{ width: "100%", height: "400px", border: "none" }}
                         title="WakaTime Coding Activity"
-                />
-                
-                <iframe src={CONFIG.WakaTimeStats.URLs?.languages}
-                        style={{ height: "50vh", width: "100%", border: "none" }}
+                    />
+
+                    <iframe
+                        src={CONFIG.WakaTimeStats.URLs?.languages}
+                        style={{ width: "100%", height: "400px", border: "none" }}
                         title="WakaTime Languages"
-                />
-                
+                    />
+                </div>
             </div>
         </section>
     );
