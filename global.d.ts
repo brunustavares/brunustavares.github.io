@@ -214,6 +214,7 @@ interface WakaTimeStats {
   URLs?: {
     coding_activity?: string;
     languages?: string;
+    full_stats?: string;
   };
 }
 

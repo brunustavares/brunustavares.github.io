@@ -35,17 +35,26 @@ export default function WakaTimeStats() {
     <section id="wakatime-stats" style={{ marginBottom: "3rem" }}>
       <h2>{CONFIG.WakaTimeStats?.year} coding in review</h2>
 
-      <div style={{ display: "table", width: "100%" }}>
-        <iframe
-          src={CONFIG.WakaTimeStats.URLs?.coding_activity}
-          style={{ width: "100%", border: "none" }}
-        />
+      <a
+        href={CONFIG.WakaTimeStats.URLs?.full_stats}
+        target="_blank"
+        rel="noopener noreferrer"
+        style={{ display: "block", textDecoration: "none" }}
+      >
+        <div style={{ display: "table", width: "100%", cursor: "pointer" }}>
+          <iframe
+            src={CONFIG.WakaTimeStats.URLs?.coding_activity}
+            style={{ width: "100%", border: "none" }}
+            title="WakaTime Coding Activity"
+          />
 
-        <iframe
-          src={CONFIG.WakaTimeStats.URLs?.languages}
-          style={{ height: "50vh", width: "100%", border: "none" }}
-        />
-      </div>
+          <iframe
+            src={CONFIG.WakaTimeStats.URLs?.languages}
+            style={{ height: "50vh", width: "100%", border: "none" }}
+            title="WakaTime Languages"
+          />
+        </div>
+      </a>
     </section>
   );
 }
