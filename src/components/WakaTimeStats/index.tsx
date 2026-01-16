@@ -33,7 +33,7 @@ export default function WakaTimeStats() {
 
     return (
         <section id="wakatime-stats">
-            <h2 style={{ textAlign: "center" }}>
+            <h3 className="text-base sm:text-lg font-bold text-base-content truncate">
                 <a
                     href={CONFIG.WakaTimeStats.URLs?.full_stats}
                     target="_blank"
@@ -42,7 +42,7 @@ export default function WakaTimeStats() {
                 >
                     {CONFIG.WakaTimeStats?.year} coding in review
                 </a>
-            </h2>
+            </h3>
 
             <div style={{
                          margin: "0 auto",
