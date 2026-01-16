@@ -52,11 +52,7 @@ export default function WakaTimeStats() {
                          background: "transparent",
                        }}
             >
-                <div style={{
-                             display: "grid",
-                             gap: "1rem",
-                           }}
-                >
+                <div style={{ display: "grid" }}>
                     <img src={CONFIG.WakaTimeStats.URLs?.coding_activity}
                          alt="WakaTime Coding Activity"
                          style={{
@@ -70,7 +66,7 @@ export default function WakaTimeStats() {
 
                     <iframe src={CONFIG.WakaTimeStats.URLs?.languages}
                             title="WakaTime Languages"
-                            style={{ width: "100%", border: "none" }}
+                            style={{ width: "100%", height: "450px", border: "none" }}
                     />
                 </div>
             </div>
