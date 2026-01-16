@@ -61,23 +61,28 @@ export default function WakaTimeStats() {
                         padding: "1rem",
                     }}
                 >
-                    <img
-    src={CONFIG.WakaTimeStats.URLs?.coding_activity}
-    alt="WakaTime Coding Activity"
-    style={{
-        display: "block",
-        width: "100%",
-        maxWidth: "100%",
-        height: "auto",
-        margin: "0 auto",
-    }}
-/>
-
-                    <iframe
-                        src={CONFIG.WakaTimeStats.URLs?.languages}
-                        style={{ width: "100%", border: "none" }}
-                        title="WakaTime Languages"
+                    <img src={CONFIG.WakaTimeStats.URLs?.coding_activity}
+                         alt="WakaTime Coding Activity"
+                         style={{
+                                 display: "block",
+                                 width: "100%",
+                                 maxWidth: "100%",
+                                 height: "auto",
+                                 margin: "0 auto",
+                               }}
                     />
+
+                    <img src={CONFIG.WakaTimeStats.URLs?.languages}
+                         alt="WakaTime Coding Activity"
+                         style={{
+                                 display: "block",
+                                 width: "100%",
+                                 maxWidth: "100%",
+                                 height: "auto",
+                                 margin: "0 auto",
+                               }}
+                    />
+
                 </div>
             </div>
         </section>
