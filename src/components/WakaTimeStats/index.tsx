@@ -32,7 +32,7 @@ export default function WakaTimeStats() {
     if (!CONFIG.WakaTimeStats?.enabled) return null;
 
     return (
-        <section id="wakatime-stats" style={{ marginBottom: "3rem" }}>
+        <section id="wakatime-stats">
             <h2 style={{ textAlign: "center" }}>
                 <a
                     href={CONFIG.WakaTimeStats.URLs?.full_stats}
@@ -44,22 +44,18 @@ export default function WakaTimeStats() {
                 </a>
             </h2>
 
-            <div
-                style={{
-                    maxWidth: "1200px",
-                    margin: "0 auto",
-                    borderRadius: "16px",
-                    overflow: "hidden",
-                    boxShadow: "0 6px 18px rgba(0,0,0,0.08)",
-                    background: "transparent",
-                }}
+            <div style={{
+                         margin: "0 auto",
+                         borderRadius: "16px",
+                         overflow: "hidden",
+                         boxShadow: "0 6px 18px rgba(0,0,0,0.08)",
+                         background: "transparent",
+                       }}
             >
-                <div
-                    style={{
-                        display: "grid",
-                        gap: "1rem",
-                        padding: "1rem",
-                    }}
+                <div style={{
+                             display: "grid",
+                             gap: "1rem",
+                           }}
                 >
                     <img src={CONFIG.WakaTimeStats.URLs?.coding_activity}
                          alt="WakaTime Coding Activity"
@@ -72,17 +68,10 @@ export default function WakaTimeStats() {
                                }}
                     />
 
-                    <img src={CONFIG.WakaTimeStats.URLs?.languages}
-                         alt="WakaTime Coding Activity"
-                         style={{
-                                 display: "block",
-                                 width: "100%",
-                                 maxWidth: "100%",
-                                 height: "auto",
-                                 margin: "0 auto",
-                               }}
+                    <iframe src={CONFIG.WakaTimeStats.URLs?.languages}
+                            title="WakaTime Languages"
+                            style={{ width: "100%", border: "none" }}
                     />
-
                 </div>
             </div>
         </section>
