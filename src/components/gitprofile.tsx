@@ -218,7 +218,6 @@ const GitProfile = ({ config }: { config: Config }) => {
                       skills={sanitizedConfig.skills}
                     />
                   )}
-                  <WakaTimeStats />
                   {sanitizedConfig.experiences.length !== 0 && (
                     <ExperienceCard
                       loading={loading}
@@ -256,6 +255,7 @@ const GitProfile = ({ config }: { config: Config }) => {
                       publications={sanitizedConfig.publications}
                     />
                   )}
+                  <WakaTimeStats />
                   {sanitizedConfig.projects.external.projects.length !== 0 && (
                     <ExternalProjectCard
                       loading={loading}
