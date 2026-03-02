@@ -61,6 +61,14 @@ const CONFIG = {
           link: 'https://github.com/brunustavares/wiser_Py/blob/main/wiseflow/Sentinel_F.md',
         },
         {
+          title: 'Queryn',
+          description:
+            'Data retrieval engine designed to bridge the gap between natural language user requests and the underlying MySQL database.',
+          imageUrl:
+            'https://raw.githubusercontent.com/brunustavares/wiser_Py/main/static/img/Queryn.jpg',
+          link: 'https://github.com/brunustavares/wiser_Py/blob/main/Queryn.md',
+        },
+        {
           title: 'Sebenta',
           description:
             'Moodle block for grades synchronization with WISEflow (teachers’ function) and integrated grades and submission statements (students’ function).',
