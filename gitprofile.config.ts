@@ -180,7 +180,7 @@ const CONFIG = {
     URLs: {
         coding_activity: "https://wakatime.com/a-look-back-at-2025/insight/days/ebe5789f-f45c-4d07-b185-9801c4b8f5cc/lrjgrwxadx.png",
         languages: "https://wakatime.com/share/@brunus/63bc7d05-a6c7-4315-86c8-c7e3859d6e0f.svg",
-        full_stats: ""
+        full_stats: "https://wakatime.com/a-look-back-at-2025/ebe5789f-f45c-4d07-b185-9801c4b8f5cc/lrjgrwxadx"
     }
   },
   experiences: [
